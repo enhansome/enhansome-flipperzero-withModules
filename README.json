@@ -1,0 +1,1471 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "This repo is an improved fork of the OG Awesome Flipper Collection by djsime1!"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Large collection of files, documentation, and dumps of all kinds.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-28T00:55:56Z",
+            "owner": "UberGuidoZ",
+            "repo": "Flipper",
+            "stars": 17354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collection of payloads formatted to work on the Flipper Zero.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-06-15T09:43:09Z",
+            "owner": "I-Am-Jakoby",
+            "repo": "Flipper-Zero-BadUSB",
+            "stars": 6999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bank vault of Amiibos to Flipper's format.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-15T17:04:52Z",
+            "owner": "Gioman101",
+            "repo": "FlipperAmiibo",
+            "stars": 3602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Many IR dumps for various appliances.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-12T06:08:36Z",
+            "owner": "logickworkshop",
+            "repo": "Flipper-IRDB",
+            "stars": 2525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generate .sub files to brute force Sub-GHz OOK.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-12T16:52:11Z",
+            "owner": "tobiabocchi",
+            "repo": "flipperzero-bruteforce",
+            "stars": 2502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flipper zero community ducky payload repo.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-01T00:18:46Z",
+            "owner": "FalsePhilosopher",
+            "repo": "badusb",
+            "stars": 1953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free and open-source [BadUSB] payloads for Flipper Zero.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-01T18:21:50Z",
+            "owner": "aleff-github",
+            "repo": "my-flipper-shits",
+            "stars": 1810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free and open-source [BadUSB] payloads for Flipper Zero.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-01T18:21:50Z",
+            "owner": "aleff-github",
+            "repo": "my-flipper-shits",
+            "stars": 1810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intercom keys, scripts, etc.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-17T15:10:39Z",
+            "owner": "wetox-team",
+            "repo": "flipperzero-goodies",
+            "stars": 1404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Triggers Retekess T119 restaurant pagers.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-12T16:20:31Z",
+            "owner": "xb8",
+            "repo": "t119bruteforcer",
+            "stars": 727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dumps of TouchTune's remote.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-19T04:24:48Z",
+            "owner": "jimilinuxguy",
+            "repo": "flipperzero-touchtunes",
+            "stars": 714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Universal Intercom Keys.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T06:16:11Z",
+            "owner": "glutesha",
+            "repo": "Flipper-Starnew",
+            "stars": 573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collection of musics for FlipperZero Music Player.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T01:07:20Z",
+            "owner": "neverfa11ing",
+            "repo": "FlipperMusicRTTTL",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Much smaller collection of musics for FlipperZero Music Player.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-25T13:16:33Z",
+            "owner": "Tonsil",
+            "repo": "flipper-music-files",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Convert IR serial messages into FlipperZero compatible IR files.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-21T10:47:35Z",
+            "owner": "maehw",
+            "repo": "SerialHex2FlipperZeroInfrared",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Comprehensive payload collection with 430+ files including BadUSB scripts, SubGHz captures, NFC tools, IR databases, and GPIO utilities for penetration testing.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-11T21:34:33Z",
+            "owner": "bad-antics",
+            "repo": "nullsec-flipper-suite",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yet another BadUSB collection.",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Databases & Dumps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prebuilt applications (FAP) for popular firmware options.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-28T00:55:56Z",
+            "owner": "UberGuidoZ",
+            "repo": "Flipper",
+            "stars": 17354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generate TOTP authentication codes.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-05-19T08:29:03Z",
+            "owner": "akopachov",
+            "repo": "flipper-zero_authenticator",
+            "stars": 665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plugin that can open any Sentry Safe and Master Lock electronic safe without entering pin code.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-11T16:27:05Z",
+            "owner": "H4ckd4ddy",
+            "repo": "flipperzero-sentry-safe-plugin",
+            "stars": 574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keeps PC screens on by acting as a moving mouse.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-12-19T13:07:27Z",
+            "owner": "MuddledBox",
+            "repo": "flipperzero-firmware",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Temperature, humidity and pressure sensors reader (DHT11/22, DS18B20, BMP280, HTU21x and more)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-03T20:24:02Z",
+            "owner": "quen0n",
+            "repo": "unitemp-flipperzero",
+            "stars": 352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Display data from a serial GPS module.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-02-04T04:01:55Z",
+            "owner": "ezod",
+            "repo": "flipperzero-gps",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doom Flipper Zero edition.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-08-26T10:50:15Z",
+            "owner": "p4nic4ttack",
+            "repo": "doom-flipper-zero",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doom-like clone for Flipper Zero.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-08-26T10:50:15Z",
+            "owner": "p4nic4ttack",
+            "repo": "doom-flipper-zero",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PoC NRF24 library and mousejack exploitation app.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-08-28T02:53:08Z",
+            "owner": "mothball187",
+            "repo": "flipperzero-nrf24",
+            "stars": 328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Updated plugin tutorial based on new build methods.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-03T14:24:17Z",
+            "owner": "csBlueChip",
+            "repo": "FlipperZero_plugin_howto",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pomodoro Timer Tool for productivity.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-03T17:08:01Z",
+            "owner": "Th3Un1q3",
+            "repo": "flipp_pomodoro",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A refactor of the BT remote to work over USB. Allows the Flipper to act as an USB HID keyboard.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-05T09:37:00Z",
+            "owner": "huuck",
+            "repo": "FlipperZeroUSBKeyboard",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Barcode Scanner Emulator.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-04-14T11:18:02Z",
+            "owner": "polarikus",
+            "repo": "flipper-zero_bc_scanner_emulator",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Easy controller for Xbox One with IR",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-01T08:12:29Z",
+            "owner": "gebeto",
+            "repo": "flipper-xbox-controller",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Send left-clicks as a USB HID device.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-16T08:24:58Z",
+            "owner": "pbek",
+            "repo": "usb_hid_autofire",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Small \"real time\" decimal/hexadecimal converter.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-08-20T19:05:14Z",
+            "owner": "theisolinearchip",
+            "repo": "flipperzero_stuff",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-unit converter that can be easily expanded with new units and conversion methods.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-08-20T19:05:14Z",
+            "owner": "theisolinearchip",
+            "repo": "flipperzero_stuff",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sub-GHz frequency spectrum analyzer.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-05-18T21:55:29Z",
+            "owner": "jolcese",
+            "repo": "flipperzero-firmware",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Use your flipper as a tuning fork.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-09T17:04:38Z",
+            "owner": "besya",
+            "repo": "flipperzero-tuning-fork",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minesweeper implementation.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-07T10:10:12Z",
+            "owner": "panki27",
+            "repo": "minesweeper",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Musical metronome.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-05-27T00:28:29Z",
+            "owner": "panki27",
+            "repo": "Metronome",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Building a Custom \"Hello world\" plugin.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-08-12T09:05:51Z",
+            "owner": "mfulz",
+            "repo": "Flipper-Plugin-Tutorial",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tap along to a song to measure beats per minute.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-05-26T23:29:36Z",
+            "owner": "panki27",
+            "repo": "bpm-tapper",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LD#47 Game.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-02-11T17:44:36Z",
+            "owner": "glitchcore",
+            "repo": "floopper-bloopper",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Can be used to create any UPC-A barcode.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-19T14:31:21Z",
+            "owner": "McAzzaMan",
+            "repo": "flipperzero-firmware",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A rudimentary Tetris game.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-15T02:11:50Z",
+            "owner": "jeffplang",
+            "repo": "flipperzero-firmware",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Servo Tester App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-03-27T18:34:08Z",
+            "owner": "mhasbini",
+            "repo": "ServoTesterApp",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The name says it all.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-01-14T17:11:44Z",
+            "owner": "DroomOne",
+            "repo": "flipperzero-firmware",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The classic Reversi game",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-03-13T22:53:28Z",
+            "owner": "dimat",
+            "repo": "flipperzero-reversi",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flipper zero port of Chrome's game.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-08-08T10:32:22Z",
+            "owner": "Rrycbarm",
+            "repo": "t-rex-runner",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Applications & Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unlocked firmware with rolling codes support & community plugins, stable tweaks, and games.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T13:14:33Z",
+            "owner": "DarkFlippers",
+            "repo": "unleashed-firmware",
+            "stars": 22050
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unleashed + Official FW fork with assorted community plugins, tweaks, & games.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T22:51:09Z",
+            "owner": "RogueMaster",
+            "repo": "flipperzero-firmware-wPlugins",
+            "stars": 6318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Less-active firmware modifications.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-12-19T13:07:27Z",
+            "owner": "MuddledBox",
+            "repo": "flipperzero-firmware",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fork of official firmware which adds custom graphics, community applications & files.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-10-04T00:04:53Z",
+            "owner": "skizzophrenic",
+            "repo": "SquachWare-CFW",
+            "stars": 366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Very similar to the official branch, with a few small tweaks.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-12-02T19:15:55Z",
+            "owner": "wetox-team",
+            "repo": "flipperzero-firmware",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unleashed fork with support for different Duckyscript keyboard layouts & community plugins.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-09-09T08:53:59Z",
+            "owner": "v1nc",
+            "repo": "flipperzero-firmware",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Very old PoC that makes Flipper behave like an AirTag.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-12-05T13:20:35Z",
+            "owner": "AlexStrNik",
+            "repo": "flipperzero-firmware",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "Firmwares & Tweaks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Brief description and links to resources, including PYX host.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-28T00:55:56Z",
+            "owner": "UberGuidoZ",
+            "repo": "Flipper",
+            "stars": 17354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Literally wrote the book on making animations.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-07T00:09:35Z",
+            "owner": "skizzophrenic",
+            "repo": "Talking-Sasquach",
+            "stars": 767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Custom animations, passport backgrounds & profile pictures.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T23:27:17Z",
+            "owner": "Kuronons",
+            "repo": "FZ_graphics",
+            "stars": 568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visualize and manage animations directly from your computer.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-11-16T17:55:40Z",
+            "owner": "Ooggle",
+            "repo": "FlipperAnimationManager",
+            "stars": 506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Some custom animations and scripts.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-26T04:09:11Z",
+            "owner": "wrenchathome",
+            "repo": "flip0anims",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A dump with animations and manifest creator for batch files.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-23T01:56:44Z",
+            "owner": "mnenkov",
+            "repo": "flipper-zero-animations",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Great collection of custom animations.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-22T16:39:20Z",
+            "owner": "Haseosama",
+            "repo": "FZ_Animations",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Another great custom animation collection.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-06-14T19:42:57Z",
+            "owner": "stopoxy",
+            "repo": "FZAnimations",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Custom animations from the creator of zip2Animation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-17T17:42:39Z",
+            "owner": "DoobTheGoober",
+            "repo": "FlipperZeroAnimation",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Utility to assist in creating animations.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-14T07:16:23Z",
+            "owner": "DoobTheGoober",
+            "repo": "zip2Animation",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gif2FlipperAnimation Converter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-23T20:08:17Z",
+            "owner": "H4XV",
+            "repo": "flipper-animation-generator",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Converts gifs to Flipper Animations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-23T20:08:17Z",
+            "owner": "H4XV",
+            "repo": "flipper-animation-generator",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Custom animations and resources.",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Graphics & Animations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Scans for WiFi networks via a custom Wemos module board.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-10-09T10:17:35Z",
+            "owner": "SequoiaSan",
+            "repo": "FlipperZero-WiFi-Scanner_Module",
+            "stars": 763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP32 with WiFi, BT/BLE, Micro-SD, Camera, Flashlight, NRF24/CC1101, and more.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-26T13:29:36Z",
+            "owner": "eried",
+            "repo": "flipperzero-mayhem",
+            "stars": 719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP32 and NRF24 daughterboards for the Flipper.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Batchfile",
+            "last_commit": "2024-04-18T10:17:23Z",
+            "owner": "DrB0rk",
+            "repo": "Flipper-Zero-Boards",
+            "stars": 575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Preforms WiFi deauth attacks via a custom ESP8266 module board.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-10-09T10:17:10Z",
+            "owner": "SequoiaSan",
+            "repo": "FlipperZero-Wifi-ESP8266-Deauther-Module",
+            "stars": 482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backpack addon boards with ESP32, Raspberry Pi, Protoboards etc.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-25T05:53:19Z",
+            "owner": "Chrismettal",
+            "repo": "flipper-zero-backpacks",
+            "stars": 439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D-Printable case & cover models.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-19T15:41:00Z",
+            "owner": "MuddledBox",
+            "repo": "FlipperZeroCases",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D-Printable cases with custom iButton interface.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-04-25T20:38:55Z",
+            "owner": "s0ko1ex",
+            "repo": "FlipperZero-Hardware",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KiCad prototype boards.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-22T14:02:40Z",
+            "owner": "lomalkin",
+            "repo": "flipperzero-protoboards-kicad",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Replacing stock backlight with RGB",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-06T03:00:06Z",
+            "owner": "quen0n",
+            "repo": "flipperzero-firmware-rgb",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Top case that works with the 4mm FZ Pelican case.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-05T20:25:01Z",
+            "owner": "Z3BRO",
+            "repo": "Flipper-Zero-Pelican-Case-Wifi-Devboard",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collection of custom animations and passport icons.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-04T06:37:37Z",
+            "owner": "oneamongthetrees",
+            "repo": "fz-gfx",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Modules & Cases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "See Flipper.bin in Releases by JustCallMeKoko.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T19:21:37Z",
+            "owner": "justcallmekoko",
+            "repo": "ESP32Marauder",
+            "stars": 11938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scripts for generating Flipper data files.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-22T13:28:20Z",
+            "owner": "evilpete",
+            "repo": "flipper_toolbox",
+            "stars": 950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MFC key recovery reader attack.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-09-20T21:22:00Z",
+            "owner": "equipter",
+            "repo": "mfkey32v2",
+            "stars": 861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hand-crafted bindings to Flipper Firmware with custom build tool.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-31T04:09:08Z",
+            "owner": "flipperzero-rs",
+            "repo": "flipperzero-rs",
+            "stars": 685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unofficial CLI wrapper writter in Python.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T07:46:07Z",
+            "owner": "wh00hw",
+            "repo": "pyFlipper",
+            "stars": 438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Connect to your Flipper's UI over serial or make it accessible via SSH.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-23T12:02:41Z",
+            "owner": "jon4hz",
+            "repo": "fztea",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yet another Amiibo to Flipper conversion script.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-23T05:53:44Z",
+            "owner": "0xz00n",
+            "repo": "FlipMiibo",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flipper Zero filesystem driver.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-06T12:02:48Z",
+            "owner": "dakhnod",
+            "repo": "fzfs",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Natural-language operator for the Flipper Zero (and ESP32 Marauder) — generate, deploy, and run payloads from a single sentence; CLI / web / MCP server modes.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T23:51:40Z",
+            "owner": "xunholy",
+            "repo": "promptzero",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modify the state and level of your dolphin.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-25T18:51:55Z",
+            "owner": "DroomOne",
+            "repo": "FlipperScripts",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Script that converts Amiibo's to Flipper format.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-13T13:16:11Z",
+            "owner": "Lucaslhm",
+            "repo": "AmiiboFlipperConverter",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python package to plot and compare multiple .sub files.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-04-07T08:40:17Z",
+            "owner": "ShotokanZH",
+            "repo": "flipper_sub_plotters_comparers",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Converts Mifare Classic binary files to Flipper.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-20T21:21:14Z",
+            "owner": "equipter",
+            "repo": "ClassicConverter",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python scripts to screenshot/stream screen.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-19T12:05:04Z",
+            "owner": "lomalkin",
+            "repo": "flipperzero-cli-tools",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Script to convert IRDB CSV's to Flipper .ir files.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-26T17:06:13Z",
+            "owner": "Spexivus",
+            "repo": "csv2ir",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Segger Embedded Studio project.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-10T15:33:08Z",
+            "owner": "hedger",
+            "repo": "flipperzero-sesproject",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A script that sets up FBT's toolchain on ARM devices.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-07-13T20:07:55Z",
+            "owner": "qqmajikpp",
+            "repo": "FBT-AARCH64",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Converts MusicXML files to Flipper Music Format.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-14T10:26:04Z",
+            "owner": "white-gecko",
+            "repo": "musicxml2fmf",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Converts Vert Pronto IR codes to Flipper format.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-28T06:53:04Z",
+            "owner": "SkeletonMan03",
+            "repo": "VertProntoIR2FlipperIR",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Off-device & Debugging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Comparison of custom firmwares listed in this repo.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-27T15:36:56Z",
+            "owner": "djsime1",
+            "repo": "awesome-flipperzero",
+            "stars": 24018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP32, ESP8266, ESP32-CAM, ESP32-WROOM, NRF24.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-28T00:55:56Z",
+            "owner": "UberGuidoZ",
+            "repo": "Flipper",
+            "stars": 17354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Basic info on screen and case dimensions.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-28T00:55:56Z",
+            "owner": "UberGuidoZ",
+            "repo": "Flipper",
+            "stars": 17354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Portable WiFi/Bluetooth pentesting.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T19:21:37Z",
+            "owner": "justcallmekoko",
+            "repo": "ESP32Marauder",
+            "stars": 11938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to read a Skylanders figure with Flipper.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-23T20:51:03Z",
+            "owner": "V0lk3n",
+            "repo": "Flipper-Skylanders",
+            "stars": 76
+          }
+        }
+      ],
+      "title": "Notes & References"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:13:29.239Z",
+    "original_repository": "RogueMaster/awesome-flipperzero-withModules",
+    "original_repository_sha": "bff5d7b73f53fdd252bf2a2d43a39276f0bbaad6",
+    "enhanced_repository": "enhansome/enhansome-flipperzero-withModules",
+    "enhanced_repository_description": null,
+    "title": "Awesome Support Me On Patreon to get the best assets updated frequently! with stars"
+  }
+}
