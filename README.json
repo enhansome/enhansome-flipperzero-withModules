@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "This repo is an improved fork of the OG Awesome Flipper Collection by djsime1!"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 490465859,
             "language": "C",
             "last_commit": "2026-07-28T00:55:56Z",
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17371
+            "stars": 17383
           }
         },
         {
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 496055858,
             "language": "PowerShell",
             "last_commit": "2024-06-15T09:43:09Z",
             "owner": "I-Am-Jakoby",
             "repo": "Flipper-Zero-BadUSB",
-            "stars": 7017
+            "stars": 7018
           }
         },
         {
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 484291308,
             "language": "Python",
             "last_commit": "2024-08-15T17:04:52Z",
             "owner": "Gioman101",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 490873858,
             "language": null,
             "last_commit": "2026-04-12T06:08:36Z",
             "owner": "logickworkshop",
@@ -71,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 520861468,
             "language": "Python",
             "last_commit": "2024-07-12T16:52:11Z",
             "owner": "tobiabocchi",
             "repo": "flipperzero-bruteforce",
-            "stars": 2507
+            "stars": 2508
           }
         },
         {
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 519912647,
             "language": "PowerShell",
             "last_commit": "2026-08-01T00:18:46Z",
             "owner": "FalsePhilosopher",
@@ -99,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 585097176,
             "language": "HTML",
             "last_commit": "2026-07-01T18:21:50Z",
             "owner": "aleff-github",
             "repo": "my-flipper-shits",
-            "stars": 1816
+            "stars": 1817
           }
         },
         {
@@ -113,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 585097176,
             "language": "HTML",
             "last_commit": "2026-07-01T18:21:50Z",
             "owner": "aleff-github",
             "repo": "my-flipper-shits",
-            "stars": 1816
+            "stars": 1817
           }
         },
         {
@@ -127,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 306932616,
             "language": "Python",
             "last_commit": "2025-10-17T15:10:39Z",
             "owner": "wetox-team",
             "repo": "flipperzero-goodies",
-            "stars": 1410
+            "stars": 1412
           }
         },
         {
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 520276881,
             "language": null,
             "last_commit": "2022-08-12T16:20:31Z",
             "owner": "xb8",
@@ -155,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 485215720,
             "language": null,
             "last_commit": "2022-05-19T04:24:48Z",
             "owner": "jimilinuxguy",
@@ -169,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 569842589,
             "language": null,
             "last_commit": "2023-12-11T06:16:11Z",
             "owner": "glutesha",
@@ -183,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 491283423,
             "language": null,
             "last_commit": "2026-08-11T01:07:20Z",
             "owner": "neverfa11ing",
@@ -197,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 494542345,
             "language": null,
             "last_commit": "2024-03-25T13:16:33Z",
             "owner": "Tonsil",
@@ -211,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 573519691,
             "language": "Python",
             "last_commit": "2024-05-21T10:47:35Z",
             "owner": "maehw",
@@ -225,24 +235,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1147128034,
             "language": "Python",
             "last_commit": "2026-03-11T21:34:33Z",
             "owner": "bad-antics",
             "repo": "nullsec-flipper-suite",
             "stars": 61
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Yet another BadUSB collection.",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Databases & Dumps"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -251,11 +256,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 490465859,
             "language": "C",
             "last_commit": "2026-07-28T00:55:56Z",
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17371
+            "stars": 17383
           }
         },
         {
@@ -265,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 546041498,
             "language": "C",
             "last_commit": "2025-05-19T08:29:03Z",
             "owner": "akopachov",
@@ -279,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 508459183,
             "language": "C",
             "last_commit": "2025-07-11T16:27:05Z",
             "owner": "H4ckd4ddy",
@@ -293,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469827242,
             "language": "C",
             "last_commit": "2022-12-19T13:07:27Z",
             "owner": "MuddledBox",
@@ -307,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 562273101,
             "language": "C",
             "last_commit": "2026-06-03T20:24:02Z",
             "owner": "quen0n",
@@ -321,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 544485376,
             "language": "C",
             "last_commit": "2025-02-04T04:01:55Z",
             "owner": "ezod",
@@ -335,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 529217861,
             "language": "C",
             "last_commit": "2022-08-26T10:50:15Z",
             "owner": "p4nic4ttack",
@@ -349,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 529217861,
             "language": "C",
             "last_commit": "2022-08-26T10:50:15Z",
             "owner": "p4nic4ttack",
@@ -363,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 507235919,
             "language": "C",
             "last_commit": "2022-08-28T02:53:08Z",
             "owner": "mothball187",
@@ -377,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 525941479,
             "language": "C",
             "last_commit": "2024-05-03T14:24:17Z",
             "owner": "csBlueChip",
@@ -391,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 582366639,
             "language": "C",
             "last_commit": "2026-08-18T16:29:04Z",
             "owner": "Th3Un1q3",
@@ -405,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 539425090,
             "language": "C",
             "last_commit": "2024-05-05T09:37:00Z",
             "owner": "huuck",
@@ -419,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 591966068,
             "language": "C",
             "last_commit": "2025-04-14T11:18:02Z",
             "owner": "polarikus",
@@ -433,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 588913816,
             "language": "C",
             "last_commit": "2025-08-01T08:12:29Z",
             "owner": "gebeto",
@@ -447,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 567810038,
             "language": "C",
             "last_commit": "2026-04-16T08:24:58Z",
             "owner": "pbek",
@@ -461,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 521741541,
             "language": "C",
             "last_commit": "2022-08-20T19:05:14Z",
             "owner": "theisolinearchip",
@@ -475,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 521741541,
             "language": "C",
             "last_commit": "2022-08-20T19:05:14Z",
             "owner": "theisolinearchip",
@@ -489,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 485553385,
             "language": "C",
             "last_commit": "2022-05-18T21:55:29Z",
             "owner": "jolcese",
@@ -503,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 550820803,
             "language": "C",
             "last_commit": "2025-03-09T17:04:38Z",
             "owner": "besya",
@@ -517,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 540637545,
             "language": "C",
             "last_commit": "2024-01-07T10:10:12Z",
             "owner": "panki27",
@@ -531,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 538256356,
             "language": "C",
             "last_commit": "2023-05-27T00:28:29Z",
             "owner": "panki27",
@@ -545,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 518374658,
             "language": "C",
             "last_commit": "2022-08-12T09:05:51Z",
             "owner": "mfulz",
@@ -559,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 537905202,
             "language": "C",
             "last_commit": "2023-05-26T23:29:36Z",
             "owner": "panki27",
@@ -573,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300857412,
             "language": "C",
             "last_commit": "2021-02-11T17:44:36Z",
             "owner": "glitchcore",
@@ -587,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 506235369,
             "language": null,
             "last_commit": "2022-08-19T14:31:21Z",
             "owner": "McAzzaMan",
@@ -601,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 487560775,
             "language": null,
             "last_commit": "2022-05-15T02:11:50Z",
             "owner": "jeffplang",
@@ -615,6 +646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 618653525,
             "language": "C",
             "last_commit": "2023-03-27T18:34:08Z",
             "owner": "mhasbini",
@@ -629,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 471972881,
             "language": "C",
             "last_commit": "2023-01-14T17:11:44Z",
             "owner": "DroomOne",
@@ -643,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 597545899,
             "language": "C",
             "last_commit": "2023-03-13T22:53:28Z",
             "owner": "dimat",
@@ -657,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 636442547,
             "language": "C",
             "last_commit": "2023-08-08T10:32:22Z",
             "owner": "Rrycbarm",
@@ -668,7 +703,7 @@
       "title": "Applications & Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -677,11 +712,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 470579591,
             "language": "C",
-            "last_commit": "2026-08-18T20:15:45Z",
+            "last_commit": "2026-08-18T23:49:45Z",
             "owner": "DarkFlippers",
             "repo": "unleashed-firmware",
-            "stars": 22071
+            "stars": 22077
           }
         },
         {
@@ -691,8 +727,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 492005030,
             "language": "C",
-            "last_commit": "2026-08-18T17:40:19Z",
+            "last_commit": "2026-08-19T05:52:54Z",
             "owner": "RogueMaster",
             "repo": "flipperzero-firmware-wPlugins",
             "stars": 6323
@@ -705,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469827242,
             "language": "C",
             "last_commit": "2022-12-19T13:07:27Z",
             "owner": "MuddledBox",
@@ -719,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 583002679,
             "language": "C",
             "last_commit": "2023-10-04T00:04:53Z",
             "owner": "skizzophrenic",
@@ -733,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 434665350,
             "language": "C",
             "last_commit": "2023-12-02T19:15:55Z",
             "owner": "wetox-team",
@@ -747,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 517104714,
             "language": "C",
             "last_commit": "2022-09-09T08:53:59Z",
             "owner": "v1nc",
@@ -761,6 +802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 434726697,
             "language": "C",
             "last_commit": "2021-12-05T13:20:35Z",
             "owner": "AlexStrNik",
@@ -772,7 +814,7 @@
       "title": "Firmwares & Tweaks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -781,11 +823,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 490465859,
             "language": "C",
             "last_commit": "2026-07-28T00:55:56Z",
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17371
+            "stars": 17383
           }
         },
         {
@@ -795,6 +838,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 541334728,
             "language": "C",
             "last_commit": "2024-08-07T00:09:35Z",
             "owner": "skizzophrenic",
@@ -809,6 +853,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 545174268,
             "language": null,
             "last_commit": "2026-08-03T23:27:17Z",
             "owner": "Kuronons",
@@ -823,6 +868,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 582349575,
             "language": "C++",
             "last_commit": "2023-11-16T17:55:40Z",
             "owner": "Ooggle",
@@ -837,6 +883,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 568154450,
             "language": "Python",
             "last_commit": "2023-11-26T04:09:11Z",
             "owner": "wrenchathome",
@@ -851,6 +898,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 591814600,
             "language": "Python",
             "last_commit": "2024-02-23T01:56:44Z",
             "owner": "mnenkov",
@@ -865,6 +913,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 547469233,
             "language": null,
             "last_commit": "2024-03-22T16:39:20Z",
             "owner": "Haseosama",
@@ -879,6 +928,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 553572064,
             "language": null,
             "last_commit": "2023-06-14T19:42:57Z",
             "owner": "stopoxy",
@@ -893,6 +943,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 552617566,
             "language": null,
             "last_commit": "2023-09-17T17:42:39Z",
             "owner": "DoobTheGoober",
@@ -907,6 +958,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 544536839,
             "language": "Python",
             "last_commit": "2024-02-14T07:16:23Z",
             "owner": "DoobTheGoober",
@@ -921,6 +973,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 655300750,
             "language": "Python",
             "last_commit": "2024-02-23T20:08:17Z",
             "owner": "H4XV",
@@ -935,24 +988,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 655300750,
             "language": "Python",
             "last_commit": "2024-02-23T20:08:17Z",
             "owner": "H4XV",
             "repo": "flipper-animation-generator",
             "stars": 26
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Custom animations and resources.",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Graphics & Animations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -961,11 +1009,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 512798468,
             "language": "C",
             "last_commit": "2022-10-09T10:17:35Z",
             "owner": "SequoiaSan",
             "repo": "FlipperZero-WiFi-Scanner_Module",
-            "stars": 763
+            "stars": 764
           }
         },
         {
@@ -975,6 +1024,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589335069,
             "language": "C++",
             "last_commit": "2026-01-26T13:29:36Z",
             "owner": "eried",
@@ -989,6 +1039,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 526681449,
             "language": "Batchfile",
             "last_commit": "2024-04-18T10:17:23Z",
             "owner": "DrB0rk",
@@ -1003,6 +1054,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 516911284,
             "language": "C",
             "last_commit": "2022-10-09T10:17:10Z",
             "owner": "SequoiaSan",
@@ -1017,11 +1069,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 586242154,
             "language": "C++",
             "last_commit": "2026-04-25T05:53:19Z",
             "owner": "Chrismettal",
             "repo": "flipper-zero-backpacks",
-            "stars": 440
+            "stars": 441
           }
         },
         {
@@ -1031,6 +1084,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 470360248,
             "language": null,
             "last_commit": "2022-03-19T15:41:00Z",
             "owner": "MuddledBox",
@@ -1045,6 +1099,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 479495289,
             "language": null,
             "last_commit": "2022-04-25T20:38:55Z",
             "owner": "s0ko1ex",
@@ -1059,6 +1114,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 453461366,
             "language": null,
             "last_commit": "2024-10-22T14:02:40Z",
             "owner": "lomalkin",
@@ -1073,6 +1129,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 584462036,
             "language": "C",
             "last_commit": "2025-12-06T03:00:06Z",
             "owner": "quen0n",
@@ -1087,6 +1144,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 573605827,
             "language": null,
             "last_commit": "2022-12-05T20:25:01Z",
             "owner": "Z3BRO",
@@ -1101,6 +1159,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 670007940,
             "language": null,
             "last_commit": "2023-08-04T06:37:37Z",
             "owner": "oneamongthetrees",
@@ -1112,7 +1171,7 @@
       "title": "Modules & Cases"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1121,11 +1180,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208325027,
             "language": "C++",
-            "last_commit": "2026-08-18T21:03:49Z",
+            "last_commit": "2026-08-19T09:10:39Z",
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12026
+            "stars": 12032
           }
         },
         {
@@ -1135,6 +1195,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 502773317,
             "language": "Python",
             "last_commit": "2025-02-22T13:28:20Z",
             "owner": "evilpete",
@@ -1149,6 +1210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 514089719,
             "language": "C",
             "last_commit": "2024-09-20T21:22:00Z",
             "owner": "equipter",
@@ -1163,8 +1225,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 541352298,
             "language": "Rust",
-            "last_commit": "2026-07-31T04:09:08Z",
+            "last_commit": "2026-08-19T08:16:44Z",
             "owner": "flipperzero-rs",
             "repo": "flipperzero-rs",
             "stars": 687
@@ -1177,6 +1240,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 517145721,
             "language": "Python",
             "last_commit": "2026-07-17T07:46:07Z",
             "owner": "wh00hw",
@@ -1191,6 +1255,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 518599161,
             "language": "Go",
             "last_commit": "2026-02-23T12:02:41Z",
             "owner": "jon4hz",
@@ -1205,6 +1270,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469205340,
             "language": "Python",
             "last_commit": "2024-05-23T05:53:44Z",
             "owner": "0xz00n",
@@ -1219,6 +1285,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 537253443,
             "language": "Python",
             "last_commit": "2025-10-06T12:02:48Z",
             "owner": "dakhnod",
@@ -1233,11 +1300,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1213121380,
             "language": "Go",
             "last_commit": "2026-08-17T08:47:45Z",
             "owner": "xunholy",
             "repo": "promptzero",
-            "stars": 221
+            "stars": 222
           }
         },
         {
@@ -1247,6 +1315,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469389420,
             "language": "Python",
             "last_commit": "2024-02-25T18:51:55Z",
             "owner": "DroomOne",
@@ -1261,6 +1330,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469155365,
             "language": "Python",
             "last_commit": "2023-05-13T13:16:11Z",
             "owner": "Lucaslhm",
@@ -1275,6 +1345,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 520620051,
             "language": "HTML",
             "last_commit": "2023-04-07T08:40:17Z",
             "owner": "ShotokanZH",
@@ -1289,6 +1360,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 520712619,
             "language": "Python",
             "last_commit": "2024-09-20T21:21:14Z",
             "owner": "equipter",
@@ -1303,6 +1375,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 402795044,
             "language": "Python",
             "last_commit": "2024-08-19T12:05:04Z",
             "owner": "lomalkin",
@@ -1317,6 +1390,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 471661277,
             "language": "Python",
             "last_commit": "2022-05-26T17:06:13Z",
             "owner": "Spexivus",
@@ -1331,6 +1405,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 436055014,
             "language": "Python",
             "last_commit": "2022-05-10T15:33:08Z",
             "owner": "hedger",
@@ -1345,6 +1420,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 622193615,
             "language": "Shell",
             "last_commit": "2023-07-13T20:07:55Z",
             "owner": "qqmajikpp",
@@ -1359,6 +1435,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 520460473,
             "language": "Python",
             "last_commit": "2023-08-14T10:26:04Z",
             "owner": "white-gecko",
@@ -1373,6 +1450,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 497202550,
             "language": "Python",
             "last_commit": "2022-05-28T06:53:04Z",
             "owner": "SkeletonMan03",
@@ -1384,7 +1462,7 @@
       "title": "Off-device & Debugging"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1393,11 +1471,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469703690,
             "language": null,
             "last_commit": "2024-09-27T15:36:56Z",
             "owner": "djsime1",
             "repo": "awesome-flipperzero",
-            "stars": 24107
+            "stars": 24115
           }
         },
         {
@@ -1407,11 +1486,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 490465859,
             "language": "C",
             "last_commit": "2026-07-28T00:55:56Z",
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17371
+            "stars": 17383
           }
         },
         {
@@ -1421,11 +1501,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 490465859,
             "language": "C",
             "last_commit": "2026-07-28T00:55:56Z",
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17371
+            "stars": 17383
           }
         },
         {
@@ -1435,11 +1516,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208325027,
             "language": "C++",
-            "last_commit": "2026-08-18T21:03:49Z",
+            "last_commit": "2026-08-19T09:10:39Z",
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12026
+            "stars": 12032
           }
         },
         {
@@ -1449,6 +1531,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 519525061,
             "language": "Python",
             "last_commit": "2023-04-23T20:51:03Z",
             "owner": "V0lk3n",
@@ -1461,8 +1544,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:41:50.144Z",
+    "last_updated": "2026-08-19T12:33:16.394Z",
     "original_repository": "RogueMaster/awesome-flipperzero-withModules",
+    "original_repository_id": 509598134,
     "original_repository_sha": "26d1358f930f3a90d32ef2beab13dc6e2cf37df0",
     "enhanced_repository": "enhansome/enhansome-flipperzero-withModules",
     "enhanced_repository_description": null,
