@@ -15,7 +15,7 @@
             "last_commit": "2026-07-28T00:55:56Z",
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17399
+            "stars": 17406
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-06-15T09:43:09Z",
             "owner": "I-Am-Jakoby",
             "repo": "Flipper-Zero-BadUSB",
-            "stars": 7024
+            "stars": 7026
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-07-12T16:52:11Z",
             "owner": "tobiabocchi",
             "repo": "flipperzero-bruteforce",
-            "stars": 2511
+            "stars": 2510
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-01T00:18:46Z",
             "owner": "FalsePhilosopher",
             "repo": "badusb",
-            "stars": 1960
+            "stars": 1961
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-07-28T00:55:56Z",
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17399
+            "stars": 17406
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2025-05-19T08:29:03Z",
             "owner": "akopachov",
             "repo": "flipper-zero_authenticator",
-            "stars": 666
+            "stars": 667
           }
         },
         {
@@ -714,10 +714,10 @@
             "archived": false,
             "id": 470579591,
             "language": "C",
-            "last_commit": "2026-08-21T20:56:22Z",
+            "last_commit": "2026-08-22T19:09:29Z",
             "owner": "DarkFlippers",
             "repo": "unleashed-firmware",
-            "stars": 22098
+            "stars": 22107
           }
         },
         {
@@ -729,10 +729,10 @@
             "archived": false,
             "id": 492005030,
             "language": "C",
-            "last_commit": "2026-08-21T07:10:25Z",
+            "last_commit": "2026-08-22T03:47:53Z",
             "owner": "RogueMaster",
             "repo": "flipperzero-firmware-wPlugins",
-            "stars": 6327
+            "stars": 6330
           }
         },
         {
@@ -828,7 +828,7 @@
             "last_commit": "2026-07-28T00:55:56Z",
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17399
+            "stars": 17406
           }
         },
         {
@@ -858,7 +858,7 @@
             "last_commit": "2026-08-03T23:27:17Z",
             "owner": "Kuronons",
             "repo": "FZ_graphics",
-            "stars": 570
+            "stars": 571
           }
         },
         {
@@ -1182,10 +1182,10 @@
             "archived": false,
             "id": 208325027,
             "language": "C++",
-            "last_commit": "2026-08-21T05:36:22Z",
+            "last_commit": "2026-08-22T21:38:36Z",
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12057
+            "stars": 12072
           }
         },
         {
@@ -1260,7 +1260,7 @@
             "last_commit": "2026-02-23T12:02:41Z",
             "owner": "jon4hz",
             "repo": "fztea",
-            "stars": 399
+            "stars": 400
           }
         },
         {
@@ -1476,7 +1476,7 @@
             "last_commit": "2024-09-27T15:36:56Z",
             "owner": "djsime1",
             "repo": "awesome-flipperzero",
-            "stars": 24135
+            "stars": 24140
           }
         },
         {
@@ -1491,7 +1491,7 @@
             "last_commit": "2026-07-28T00:55:56Z",
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17399
+            "stars": 17406
           }
         },
         {
@@ -1506,7 +1506,7 @@
             "last_commit": "2026-07-28T00:55:56Z",
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17399
+            "stars": 17406
           }
         },
         {
@@ -1518,10 +1518,10 @@
             "archived": false,
             "id": 208325027,
             "language": "C++",
-            "last_commit": "2026-08-21T05:36:22Z",
+            "last_commit": "2026-08-22T21:38:36Z",
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12057
+            "stars": 12072
           }
         },
         {
@@ -1544,7 +1544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T21:42:53.261Z",
+    "last_updated": "2026-08-22T21:40:32.660Z",
     "original_repository": "RogueMaster/awesome-flipperzero-withModules",
     "original_repository_id": 509598134,
     "original_repository_sha": "73d3ddee552597f4b2d05bb9fd7378155934c0eb",
