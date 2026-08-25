@@ -14,7 +14,7 @@
             "last_commit": "2024-09-27T15:36:56Z",
             "owner": "djsime1",
             "repo": "awesome-flipperzero",
-            "stars": 24153
+            "stars": 24156
           },
           "title": "This repo is an improved fork of the OG Awesome Flipper Collection by djsime1!"
         }
@@ -36,7 +36,7 @@
             "last_commit": "2026-07-28T00:55:56Z",
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17416
+            "stars": 17419
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2024-06-15T09:43:09Z",
             "owner": "I-Am-Jakoby",
             "repo": "Flipper-Zero-BadUSB",
-            "stars": 7031
+            "stars": 7032
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2024-08-15T17:04:52Z",
             "owner": "Gioman101",
             "repo": "FlipperAmiibo",
-            "stars": 3607
+            "stars": 3608
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-04-12T06:08:36Z",
             "owner": "logickworkshop",
             "repo": "Flipper-IRDB",
-            "stars": 2533
+            "stars": 2534
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-07-12T16:52:11Z",
             "owner": "tobiabocchi",
             "repo": "flipperzero-bruteforce",
-            "stars": 2510
+            "stars": 2511
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2025-10-17T15:10:39Z",
             "owner": "wetox-team",
             "repo": "flipperzero-goodies",
-            "stars": 1414
+            "stars": 1415
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-07-28T00:55:56Z",
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17416
+            "stars": 17419
           }
         },
         {
@@ -738,7 +738,7 @@
             "last_commit": "2026-08-22T19:09:29Z",
             "owner": "DarkFlippers",
             "repo": "unleashed-firmware",
-            "stars": 22115
+            "stars": 22117
           }
         },
         {
@@ -849,7 +849,7 @@
             "last_commit": "2026-07-28T00:55:56Z",
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17416
+            "stars": 17419
           }
         },
         {
@@ -1203,10 +1203,10 @@
             "archived": false,
             "id": 208325027,
             "language": "C++",
-            "last_commit": "2026-08-24T19:12:09Z",
+            "last_commit": "2026-08-25T04:33:04Z",
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12106
+            "stars": 12112
           }
         },
         {
@@ -1497,7 +1497,7 @@
             "last_commit": "2024-09-27T15:36:56Z",
             "owner": "djsime1",
             "repo": "awesome-flipperzero",
-            "stars": 24153
+            "stars": 24156
           }
         },
         {
@@ -1512,7 +1512,7 @@
             "last_commit": "2026-07-28T00:55:56Z",
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17416
+            "stars": 17419
           }
         },
         {
@@ -1527,7 +1527,7 @@
             "last_commit": "2026-07-28T00:55:56Z",
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17416
+            "stars": 17419
           }
         },
         {
@@ -1539,10 +1539,10 @@
             "archived": false,
             "id": 208325027,
             "language": "C++",
-            "last_commit": "2026-08-24T19:12:09Z",
+            "last_commit": "2026-08-25T04:33:04Z",
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12106
+            "stars": 12112
           }
         },
         {
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:47:28.745Z",
+    "last_updated": "2026-08-25T06:04:46.741Z",
     "original_repository": "RogueMaster/awesome-flipperzero-withModules",
     "original_repository_id": 509598134,
     "original_repository_sha": "73d3ddee552597f4b2d05bb9fd7378155934c0eb",
