@@ -9,12 +9,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🐬 A collection of awesome resources for the Flipper Zero device.",
+            "homepage": "https://dj.je/fz",
             "id": 469703690,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-09-27T15:36:56Z",
+            "open_issues": 17,
             "owner": "djsime1",
             "repo": "awesome-flipperzero",
-            "stars": 24191
+            "stars": 24191,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "flipper-zero",
+              "flipperzero"
+            ]
           },
           "title": "This repo is an improved fork of the OG Awesome Flipper Collection by djsime1!",
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -32,12 +42,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+            "homepage": null,
             "id": 490465859,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-28T00:55:56Z",
+            "open_issues": 8,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17443
+            "stars": 17443,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -48,12 +63,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.",
+            "homepage": null,
             "id": 496055858,
             "language": "PowerShell",
+            "license": null,
             "last_commit": "2024-06-15T09:43:09Z",
+            "open_issues": 66,
             "owner": "I-Am-Jakoby",
             "repo": "Flipper-Zero-BadUSB",
-            "stars": 7039
+            "stars": 7039,
+            "topics": [
+              "badusb",
+              "badusb-payloads",
+              "flipper-zero",
+              "flipperzero",
+              "hak5"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -64,12 +90,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Made to be used with Flipper just drag the folder into NFC",
+            "homepage": null,
             "id": 484291308,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-15T17:04:52Z",
+            "open_issues": 10,
             "owner": "Gioman101",
             "repo": "FlipperAmiibo",
-            "stars": 3612
+            "stars": 3612,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -80,12 +111,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collective of different IRs for the Flipper",
+            "homepage": null,
             "id": 490873858,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-04-12T06:08:36Z",
+            "open_issues": 1,
             "owner": "logickworkshop",
             "repo": "Flipper-IRDB",
-            "stars": 2535
+            "stars": 2535,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -96,12 +132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Brute force subghz fixed codes using flipper zero",
+            "homepage": null,
             "id": 520861468,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-12T16:52:11Z",
+            "open_issues": 13,
             "owner": "tobiabocchi",
             "repo": "flipperzero-bruteforce",
-            "stars": 2513
+            "stars": 2513,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -112,12 +153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero badusb payload library",
+            "homepage": null,
             "id": 519912647,
             "language": "PowerShell",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-01T00:18:46Z",
+            "open_issues": 0,
             "owner": "FalsePhilosopher",
             "repo": "badusb",
-            "stars": 1966
+            "stars": 1966,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -128,12 +174,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free and libre source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]",
+            "homepage": "https://aleff-github.github.io/my-flipper-shits/",
             "id": 585097176,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-01T18:21:50Z",
+            "open_issues": 1,
             "owner": "aleff-github",
             "repo": "my-flipper-shits",
-            "stars": 1827
+            "stars": 1827,
+            "topics": [
+              "badusb",
+              "badusb-payloads",
+              "duckyscript",
+              "flipper-badusb",
+              "flipper-zero",
+              "flipper-zero-payload",
+              "flipperzero",
+              "free",
+              "free-payloads",
+              "hak5",
+              "ios",
+              "iphone",
+              "linux",
+              "open-source",
+              "rubberducky",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -144,12 +212,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free and libre source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]",
+            "homepage": "https://aleff-github.github.io/my-flipper-shits/",
             "id": 585097176,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-01T18:21:50Z",
+            "open_issues": 1,
             "owner": "aleff-github",
             "repo": "my-flipper-shits",
-            "stars": 1827
+            "stars": 1827,
+            "topics": [
+              "badusb",
+              "badusb-payloads",
+              "duckyscript",
+              "flipper-badusb",
+              "flipper-zero",
+              "flipper-zero-payload",
+              "flipperzero",
+              "free",
+              "free-payloads",
+              "hak5",
+              "ios",
+              "iphone",
+              "linux",
+              "open-source",
+              "rubberducky",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -160,12 +250,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flipper zero goodies [intercom_keys][scripts]",
+            "homepage": null,
             "id": 306932616,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-17T15:10:39Z",
+            "open_issues": 0,
             "owner": "wetox-team",
             "repo": "flipperzero-goodies",
-            "stars": 1415
+            "stars": 1415,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -176,12 +271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Retekess pager system t119 bruteforcer for the flipper zero ",
+            "homepage": null,
             "id": 520276881,
             "language": null,
+            "license": null,
             "last_commit": "2022-08-12T16:20:31Z",
+            "open_issues": 0,
             "owner": "xb8",
             "repo": "t119bruteforcer",
-            "stars": 727
+            "stars": 727,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -192,12 +292,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 485215720,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2022-05-19T04:24:48Z",
+            "open_issues": 9,
             "owner": "jimilinuxguy",
             "repo": "flipperzero-touchtunes",
-            "stars": 721
+            "stars": 721,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -208,12 +313,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Универсальные, а также сервисные ключи StarNew в формате для Flipper Zero",
+            "homepage": null,
             "id": 569842589,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-11T06:16:11Z",
+            "open_issues": 0,
             "owner": "glutesha",
             "repo": "Flipper-Starnew",
-            "stars": 577
+            "stars": 577,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -224,12 +334,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RTTTL txt files that will work with the FIipperZero Music Player",
+            "homepage": null,
             "id": 491283423,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-11T01:07:20Z",
+            "open_issues": 2,
             "owner": "neverfa11ing",
             "repo": "FlipperMusicRTTTL",
-            "stars": 378
+            "stars": 378,
+            "topics": [
+              "flipperzero",
+              "nokia",
+              "rtttl"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -240,12 +359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Music files in .fmf format for the Flipper Zero Music Player plugin",
+            "homepage": null,
             "id": 494542345,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2024-03-25T13:16:33Z",
+            "open_issues": 3,
             "owner": "Tonsil",
             "repo": "flipper-music-files",
-            "stars": 242
+            "stars": 242,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -256,12 +380,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert infrared serial interface commands for Flipper Zero 🐬 🧱🤖",
+            "homepage": null,
             "id": 573519691,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-05-21T10:47:35Z",
+            "open_issues": 0,
             "owner": "maehw",
             "repo": "SerialHex2FlipperZeroInfrared",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "flipper-zero",
+              "flipperzero",
+              "infrared",
+              "infrared-encoder",
+              "lego",
+              "lego-mindstorms",
+              "mindstorms",
+              "mindstorms-rcx",
+              "rcx",
+              "serial-communication"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -272,12 +412,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐬 430+ Flipper Zero files | 80 BadUSB payloads, 40 SubGHz signals, 16 IR remotes, NFC, RFID, animations | Windows/Linux/macOS",
+            "homepage": "https://github.com/bad-antics/nullsec-flipper-suite#-quick-install",
             "id": 1147128034,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-11T21:34:33Z",
+            "open_issues": 2,
             "owner": "bad-antics",
             "repo": "nullsec-flipper-suite",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "badusb",
+              "flipper-zero",
+              "infrared",
+              "nfc",
+              "payloads",
+              "rfid",
+              "security",
+              "subghz"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         }
@@ -294,12 +448,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+            "homepage": null,
             "id": 490465859,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-28T00:55:56Z",
+            "open_issues": 8,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17443
+            "stars": 17443,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -310,12 +469,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Software-based TOTP/HOTP authenticator for Flipper Zero device.",
+            "homepage": null,
             "id": 546041498,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2025-05-19T08:29:03Z",
+            "open_issues": 3,
             "owner": "akopachov",
             "repo": "flipper-zero_authenticator",
-            "stars": 668
+            "stars": 668,
+            "topics": [
+              "authenticator",
+              "flipper-plugin",
+              "flipperzero",
+              "hotp",
+              "totp"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -326,12 +496,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 508459183,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-07-11T16:27:05Z",
+            "open_issues": 5,
             "owner": "H4ckd4ddy",
             "repo": "flipperzero-sentry-safe-plugin",
-            "stars": 575
+            "stars": 575,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -342,12 +517,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero Firmware",
+            "homepage": "https://flipperzero.one",
             "id": 469827242,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2022-12-19T13:07:27Z",
+            "open_issues": 9,
             "owner": "MuddledBox",
             "repo": "flipperzero-firmware",
-            "stars": 430
+            "stars": 430,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -358,12 +538,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero application for reading temperature, humidity and pressure sensors like a DHT11/22, DS18B20, BMP280, HTU21 and more",
+            "homepage": null,
             "id": 562273101,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-03T20:24:02Z",
+            "open_issues": 3,
             "owner": "quen0n",
             "repo": "unitemp-flipperzero",
-            "stars": 353
+            "stars": 353,
+            "topics": [
+              "aht10",
+              "am2320",
+              "bme280",
+              "bmp180",
+              "bmp280",
+              "dht11",
+              "dht20",
+              "dht21",
+              "dht22",
+              "ds18b20",
+              "flipperzero",
+              "hdc1080",
+              "htu21x",
+              "lm75",
+              "sht31"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -374,12 +575,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero application for NMEA 0183 serial GPS modules.",
+            "homepage": null,
             "id": 544485376,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-04T04:01:55Z",
+            "open_issues": 9,
             "owner": "ezod",
             "repo": "flipperzero-gps",
-            "stars": 344
+            "stars": 344,
+            "topics": [
+              "flipperzero",
+              "gps",
+              "nmea0183"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -390,12 +600,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Doom Flipper Zero edition",
+            "homepage": null,
             "id": 529217861,
             "language": "C",
+            "license": null,
             "last_commit": "2022-08-26T10:50:15Z",
+            "open_issues": 2,
             "owner": "p4nic4ttack",
             "repo": "doom-flipper-zero",
-            "stars": 341
+            "stars": 341,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -406,12 +621,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Doom Flipper Zero edition",
+            "homepage": null,
             "id": 529217861,
             "language": "C",
+            "license": null,
             "last_commit": "2022-08-26T10:50:15Z",
+            "open_issues": 2,
             "owner": "p4nic4ttack",
             "repo": "doom-flipper-zero",
-            "stars": 341
+            "stars": 341,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -422,12 +642,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 507235919,
             "language": "C",
+            "license": null,
             "last_commit": "2022-08-28T02:53:08Z",
+            "open_issues": 8,
             "owner": "mothball187",
             "repo": "flipperzero-nrf24",
-            "stars": 328
+            "stars": 328,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -438,12 +663,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple plugin for the FlipperZero written as a tutorial example [ie. excessive documentation & error handling]",
+            "homepage": null,
             "id": 525941479,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-05-03T14:24:17Z",
+            "open_issues": 1,
             "owner": "csBlueChip",
             "repo": "FlipperZero_plugin_howto",
-            "stars": 299
+            "stars": 299,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -454,12 +684,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Boost Your Productivity with the Pomodoro Timer for Flipper Zero! Don't let your flipper get bored, let him help you instead.",
+            "homepage": null,
             "id": 582366639,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T08:46:23Z",
+            "open_issues": 3,
             "owner": "Th3Un1q3",
             "repo": "flipp_pomodoro",
-            "stars": 209
+            "stars": 209,
+            "topics": [
+              "flipper",
+              "flipper-zero",
+              "flipperzero",
+              "pomodoro",
+              "productivity"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -470,12 +711,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn your Flipper Zero into an USB keyboard",
+            "homepage": null,
             "id": 539425090,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-05-05T09:37:00Z",
+            "open_issues": 2,
             "owner": "huuck",
             "repo": "FlipperZeroUSBKeyboard",
-            "stars": 174
+            "stars": 174,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -486,12 +732,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emulates a barcode scanner for testing cash registers. Why buy a scanner when you have a flipper?",
+            "homepage": null,
             "id": 591966068,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-14T11:18:02Z",
+            "open_issues": 2,
             "owner": "polarikus",
             "repo": "flipper-zero_bc_scanner_emulator",
-            "stars": 166
+            "stars": 166,
+            "topics": [
+              "barcode",
+              "barcode-scanner",
+              "cashregister",
+              "evotor",
+              "fap",
+              "flipper",
+              "flipper-plugin",
+              "flipper-plugins",
+              "flipperzero",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -502,12 +764,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero IR Xbox Controller",
+            "homepage": null,
             "id": 588913816,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:34:38Z",
+            "open_issues": 1,
             "owner": "gebeto",
             "repo": "flipper-xbox-controller",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "flipper",
+              "flipper-plugin",
+              "flipper-plugins",
+              "flipper-zero",
+              "flipper0",
+              "flipperapp",
+              "flipperzero"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -518,12 +793,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Flipper Zero application to send left-clicks as a USB HID device",
+            "homepage": null,
             "id": 567810038,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-16T08:24:58Z",
+            "open_issues": 4,
             "owner": "pbek",
             "repo": "usb_hid_autofire",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "c",
+              "fap",
+              "flipper",
+              "flipper-plugin",
+              "flipper-plugins",
+              "flipper-zero",
+              "flipperzero",
+              "hid",
+              "usb"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -534,12 +824,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bunch Flipper Zero apps and random tinkering",
+            "homepage": null,
             "id": 521741541,
             "language": "C",
+            "license": "Unlicense",
             "last_commit": "2022-08-20T19:05:14Z",
+            "open_issues": 3,
             "owner": "theisolinearchip",
             "repo": "flipperzero_stuff",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -550,12 +845,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bunch Flipper Zero apps and random tinkering",
+            "homepage": null,
             "id": 521741541,
             "language": "C",
+            "license": "Unlicense",
             "last_commit": "2022-08-20T19:05:14Z",
+            "open_issues": 3,
             "owner": "theisolinearchip",
             "repo": "flipperzero_stuff",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -566,12 +866,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero Firmware",
+            "homepage": "https://flipperzero.one",
             "id": 485553385,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2022-05-18T21:55:29Z",
+            "open_issues": 0,
             "owner": "jolcese",
             "repo": "flipperzero-firmware",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -582,12 +887,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tuning Fork for Flipper Zero",
+            "homepage": null,
             "id": 550820803,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-09T17:04:38Z",
+            "open_issues": 0,
             "owner": "besya",
             "repo": "flipperzero-tuning-fork",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "flipper-plugin",
+              "flipperzero"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -598,12 +911,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minesweeper implementation for the Flipper Zero device.",
+            "homepage": null,
             "id": 540637545,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2024-01-07T10:10:12Z",
+            "open_issues": 5,
             "owner": "panki27",
             "repo": "minesweeper",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "flipperzero",
+              "minesweeper"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -614,12 +935,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Metronome for Flipper Zero",
+            "homepage": null,
             "id": 538256356,
             "language": "C",
+            "license": null,
             "last_commit": "2023-05-27T00:28:29Z",
+            "open_issues": 3,
             "owner": "panki27",
             "repo": "Metronome",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "flipperzero"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -630,12 +958,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get started with Flipper Zero by building a Custom \"Hello world\" plugin",
+            "homepage": null,
             "id": 518374658,
             "language": "C",
+            "license": null,
             "last_commit": "2022-08-12T09:05:51Z",
+            "open_issues": 1,
             "owner": "mfulz",
             "repo": "Flipper-Plugin-Tutorial",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -646,12 +979,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BPM Tapper for the Flipper Zero",
+            "homepage": null,
             "id": 537905202,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2023-05-26T23:29:36Z",
+            "open_issues": 4,
             "owner": "panki27",
             "repo": "bpm-tapper",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "flipperzero"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -662,12 +1002,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LD #47 Flipperzero game",
+            "homepage": null,
             "id": 300857412,
             "language": "C",
+            "license": null,
             "last_commit": "2021-02-11T17:44:36Z",
+            "open_issues": 1,
             "owner": "glitchcore",
             "repo": "floopper-bloopper",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -678,12 +1023,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero Firmware",
+            "homepage": "https://flipperzero.one",
             "id": 506235369,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2022-08-19T14:31:21Z",
+            "open_issues": 1,
             "owner": "McAzzaMan",
             "repo": "flipperzero-firmware",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -694,12 +1044,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero Firmware",
+            "homepage": "https://flipperzero.one",
             "id": 487560775,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2022-05-15T02:11:50Z",
+            "open_issues": 0,
             "owner": "jeffplang",
             "repo": "flipperzero-firmware",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -710,12 +1065,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FlipperZero app to test servo motors",
+            "homepage": "https://mhasbini.com/blog/servo-tester-flipper-zero.html",
             "id": 618653525,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2023-03-27T18:34:08Z",
+            "open_issues": 5,
             "owner": "mhasbini",
             "repo": "ServoTesterApp",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -726,12 +1086,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero Firmware",
+            "homepage": "https://flipperzero.one",
             "id": 471972881,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2023-01-14T17:11:44Z",
+            "open_issues": 0,
             "owner": "DroomOne",
             "repo": "flipperzero-firmware",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -742,12 +1107,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Reversi\" game for Flipper Zero",
+            "homepage": null,
             "id": 597545899,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2023-03-13T22:53:28Z",
+            "open_issues": 0,
             "owner": "dimat",
             "repo": "flipperzero-reversi",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "flipperzero",
+              "game",
+              "game-development"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -758,12 +1132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero port of Chrome's running T-rex game",
+            "homepage": null,
             "id": 636442547,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2023-08-08T10:32:22Z",
+            "open_issues": 0,
             "owner": "Rrycbarm",
             "repo": "t-rex-runner",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         }
@@ -780,12 +1159,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero Unleashed Firmware",
+            "homepage": "https://flipperunleashed.com",
             "id": 470579591,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T20:29:06Z",
+            "open_issues": 28,
             "owner": "DarkFlippers",
             "repo": "unleashed-firmware",
-            "stars": 22132
+            "stars": 22132,
+            "topics": [
+              "alternative-firmware",
+              "cfw",
+              "custom",
+              "custom-firmware",
+              "darkflippers",
+              "firmware",
+              "flipper",
+              "flipper-plugins",
+              "flipper-zero",
+              "flipperzero",
+              "jailbreak",
+              "keeloq",
+              "rolling-codes",
+              "unleashed",
+              "unlocked",
+              "unofficial"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -796,12 +1197,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RogueMaster Flipper Zero Firmware",
+            "homepage": "https://www.patreon.com/RogueMaster",
             "id": 492005030,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T09:31:27Z",
+            "open_issues": 0,
             "owner": "RogueMaster",
             "repo": "flipperzero-firmware-wPlugins",
-            "stars": 6335
+            "stars": 6336,
+            "topics": [
+              "armv7m",
+              "ble",
+              "bluetooth-low-energy",
+              "cfw",
+              "custom-firmware",
+              "flipper",
+              "flipper-zero",
+              "flipperzer0",
+              "flipperzero",
+              "games",
+              "hacker",
+              "jailbreak",
+              "onewire",
+              "pentesting",
+              "roguemaster",
+              "security-tools",
+              "stm32"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -812,12 +1236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero Firmware",
+            "homepage": "https://flipperzero.one",
             "id": 469827242,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2022-12-19T13:07:27Z",
+            "open_issues": 9,
             "owner": "MuddledBox",
             "repo": "flipperzero-firmware",
-            "stars": 430
+            "stars": 430,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -828,12 +1257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SquachWare CFW",
+            "homepage": "https://talkingsasquach.com",
             "id": 583002679,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-04T00:04:53Z",
+            "open_issues": 1,
             "owner": "skizzophrenic",
             "repo": "SquachWare-CFW",
-            "stars": 367
+            "stars": 367,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -844,12 +1278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero Firmware fork by the 2LNLWTX team",
+            "homepage": null,
             "id": 434665350,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2023-12-02T19:15:55Z",
+            "open_issues": 0,
             "owner": "wetox-team",
             "repo": "flipperzero-firmware",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -860,12 +1299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "v1nc flipper zero firmware",
+            "homepage": null,
             "id": 517104714,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2022-09-09T08:53:59Z",
+            "open_issues": 1,
             "owner": "v1nc",
             "repo": "flipperzero-firmware",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -876,12 +1320,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero Firmware",
+            "homepage": "https://flipperzero.one",
             "id": 434726697,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2021-12-05T13:20:35Z",
+            "open_issues": 0,
             "owner": "AlexStrNik",
             "repo": "flipperzero-firmware",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         }
@@ -898,12 +1347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+            "homepage": null,
             "id": 490465859,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-28T00:55:56Z",
+            "open_issues": 8,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17443
+            "stars": 17443,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -914,12 +1368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Want to make Flipper Animations?  This is the place!  Also, this is where I store some of my own creations!",
+            "homepage": "https://www.youtube.com/@TalkingSasquach",
             "id": 541334728,
             "language": "C",
+            "license": null,
             "last_commit": "2024-08-07T00:09:35Z",
+            "open_issues": 6,
             "owner": "skizzophrenic",
             "repo": "Talking-Sasquach",
-            "stars": 772
+            "stars": 772,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -930,12 +1389,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero Custom animations, profile and passport pictures by Kuronons",
+            "homepage": null,
             "id": 545174268,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-03T23:27:17Z",
+            "open_issues": 0,
             "owner": "Kuronons",
             "repo": "FZ_graphics",
-            "stars": 573
+            "stars": 573,
+            "topics": [
+              "animation",
+              "art",
+              "customization",
+              "flipper-zero",
+              "flipperzero",
+              "graphics",
+              "kuronons",
+              "pixel-art"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -946,12 +1419,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualize and manage your Flipper Zero animations directly from your computer - Flipper Animation Manager",
+            "homepage": null,
             "id": 582349575,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-11-16T17:55:40Z",
+            "open_issues": 4,
             "owner": "Ooggle",
             "repo": "FlipperAnimationManager",
-            "stars": 506
+            "stars": 506,
+            "topics": [
+              "flipper-zero",
+              "flipperzero"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -962,12 +1443,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My custom made flipperzero animations",
+            "homepage": null,
             "id": 568154450,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-11-26T04:09:11Z",
+            "open_issues": 3,
             "owner": "wrenchathome",
             "repo": "flip0anims",
-            "stars": 281
+            "stars": 281,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -978,12 +1464,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Here I'll dump animations and tools to create them",
+            "homepage": null,
             "id": 591814600,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-02-23T01:56:44Z",
+            "open_issues": 2,
             "owner": "mnenkov",
             "repo": "flipper-zero-animations",
-            "stars": 276
+            "stars": 276,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -994,12 +1485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom animations for Flipper Zéro",
+            "homepage": null,
             "id": 547469233,
             "language": null,
+            "license": null,
             "last_commit": "2024-03-22T16:39:20Z",
+            "open_issues": 0,
             "owner": "Haseosama",
             "repo": "FZ_Animations",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1010,12 +1506,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero Animations by Stop Oxy",
+            "homepage": null,
             "id": 553572064,
             "language": null,
+            "license": null,
             "last_commit": "2023-06-14T19:42:57Z",
+            "open_issues": 0,
             "owner": "stopoxy",
             "repo": "FZAnimations",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1026,12 +1527,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero Animations",
+            "homepage": null,
             "id": 552617566,
             "language": null,
+            "license": null,
             "last_commit": "2023-09-17T17:42:39Z",
+            "open_issues": 0,
             "owner": "DoobTheGoober",
             "repo": "FlipperZeroAnimation",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1042,12 +1548,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility to assist in creating flipper zero animations.",
+            "homepage": null,
             "id": 544536839,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-02-14T07:16:23Z",
+            "open_issues": 0,
             "owner": "DoobTheGoober",
             "repo": "zip2Animation",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1058,12 +1569,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Gif to Flipper Animation converter",
+            "homepage": null,
             "id": 655300750,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-23T20:08:17Z",
+            "open_issues": 1,
             "owner": "H4XV",
             "repo": "flipper-animation-generator",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1074,12 +1590,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Gif to Flipper Animation converter",
+            "homepage": null,
             "id": 655300750,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-23T20:08:17Z",
+            "open_issues": 1,
             "owner": "H4XV",
             "repo": "flipper-animation-generator",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         }
@@ -1096,12 +1617,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WiFi Scanner Module for FlipperZero based on ESP8266/ESP32",
+            "homepage": null,
             "id": 512798468,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-09T10:17:35Z",
+            "open_issues": 17,
             "owner": "SequoiaSan",
             "repo": "FlipperZero-WiFi-Scanner_Module",
-            "stars": 764
+            "stars": 764,
+            "topics": [
+              "esp32",
+              "esp8266",
+              "flipper-module",
+              "flipper-plugin",
+              "flipper-zero",
+              "flipperzero",
+              "wifi-scanner"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1112,12 +1646,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Perfect companion for your Flipper Zero. ESP32 with WiFi, BT/BLE, micro-SD, camera+PSRAM, flashlight and extras: NRF24/CC1101, 3V/5V sensors",
+            "homepage": null,
             "id": 589335069,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-01-26T13:29:36Z",
+            "open_issues": 3,
             "owner": "eried",
             "repo": "flipperzero-mayhem",
-            "stars": 720
+            "stars": 720,
+            "topics": [
+              "esp32",
+              "esp32-arduino",
+              "esp32-cam",
+              "flipper-zero",
+              "flipperzero",
+              "marauders-esp"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1128,12 +1674,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a collection of boards ive designed for the Flipper zero. more are on their way!",
+            "homepage": null,
             "id": 526681449,
             "language": "Batchfile",
+            "license": "GPL-3.0",
             "last_commit": "2024-04-18T10:17:23Z",
+            "open_issues": 5,
             "owner": "DrB0rk",
             "repo": "Flipper-Zero-Boards",
-            "stars": 576
+            "stars": 576,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1144,12 +1695,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DSTIKE Deauther for FlipperZero as module based on ESP8266",
+            "homepage": null,
             "id": 516911284,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2022-10-09T10:17:10Z",
+            "open_issues": 8,
             "owner": "SequoiaSan",
             "repo": "FlipperZero-Wifi-ESP8266-Deauther-Module",
-            "stars": 483
+            "stars": 483,
+            "topics": [
+              "deauthentication",
+              "deauther",
+              "dstike",
+              "esp8266",
+              "flipper-module",
+              "flipper-plugin",
+              "flipper-zero",
+              "flipperzero",
+              "module",
+              "wifi-deauth",
+              "wifi-deauther"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1160,12 +1728,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Backpack-style addon boards for the Flipper Zero!",
+            "homepage": null,
             "id": 586242154,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-25T05:53:19Z",
+            "open_issues": 3,
             "owner": "Chrismettal",
             "repo": "flipper-zero-backpacks",
-            "stars": 441
+            "stars": 441,
+            "topics": [
+              "addon",
+              "backpack",
+              "board",
+              "devboard",
+              "development",
+              "electronics",
+              "esp32",
+              "flipper",
+              "flipperzero",
+              "freecad",
+              "kicad",
+              "pentesting",
+              "security",
+              "wifi"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1176,12 +1764,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3d Printable Flipper Zero Cases",
+            "homepage": null,
             "id": 470360248,
             "language": null,
+            "license": null,
             "last_commit": "2022-03-19T15:41:00Z",
+            "open_issues": 2,
             "owner": "MuddledBox",
             "repo": "FlipperZeroCases",
-            "stars": 182
+            "stars": 182,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1192,12 +1785,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My Flipper zero hardware-related stuff",
+            "homepage": null,
             "id": 479495289,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-04-25T20:38:55Z",
+            "open_issues": 1,
             "owner": "s0ko1ex",
             "repo": "FlipperZero-Hardware",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1208,12 +1806,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial protoboards for Flipper Zero, designed in KiCAD.",
+            "homepage": null,
             "id": 453461366,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-22T14:02:40Z",
+            "open_issues": 0,
             "owner": "lomalkin",
             "repo": "flipperzero-protoboards-kicad",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1224,12 +1827,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero firmware source code with RGB-backlight mode",
+            "homepage": "https://flipperzero.one",
             "id": 584462036,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-06T03:00:06Z",
+            "open_issues": 0,
             "owner": "quen0n",
             "repo": "flipperzero-firmware-rgb",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1240,12 +1848,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "I remade a top case to work with the 4mm flipper zero pelican case   Credits to   https://www.printables.com/model/204882-flipper-zero-case   https://www.printables.com/model/267568-flipper-zero-wifi-case   https://www.printables.com/model/179910-case-for-flipper-zero-wi-fi-module-v1",
+            "homepage": null,
             "id": 573605827,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-05T20:25:01Z",
+            "open_issues": 0,
             "owner": "Z3BRO",
             "repo": "Flipper-Zero-Pelican-Case-Wifi-Devboard",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1256,12 +1869,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero custom animations/graphics",
+            "homepage": null,
             "id": 670007940,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-04T06:37:37Z",
+            "open_issues": 1,
             "owner": "oneamongthetrees",
             "repo": "fz-gfx",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         }
@@ -1278,12 +1896,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
+            "homepage": "https://justcallmekokollc.com",
             "id": 208325027,
             "language": "C++",
-            "last_commit": "2026-08-28T20:59:06Z",
+            "license": null,
+            "last_commit": "2026-08-29T03:57:15Z",
+            "open_issues": 332,
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12154
+            "stars": 12155,
+            "topics": [
+              "arduino",
+              "beacon",
+              "bluetooth",
+              "command-line",
+              "deauthentication",
+              "defensive",
+              "dualband",
+              "esp32",
+              "esp32-c5",
+              "esp32-s2",
+              "espressif",
+              "firmware",
+              "flipperzero",
+              "flock-safety",
+              "offensive",
+              "portscanner",
+              "scanner",
+              "wardriving",
+              "wifi",
+              "wpa3"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1294,12 +1938,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Random scripts for generating Flipper data files.",
+            "homepage": null,
             "id": 502773317,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-02-22T13:28:20Z",
+            "open_issues": 0,
             "owner": "evilpete",
             "repo": "flipper_toolbox",
-            "stars": 954
+            "stars": 954,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1310,12 +1959,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mifare Classic Key Calculator v2",
+            "homepage": null,
             "id": 514089719,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2024-09-20T21:22:00Z",
+            "open_issues": 9,
             "owner": "equipter",
             "repo": "mfkey32v2",
-            "stars": 865
+            "stars": 865,
+            "topics": [
+              "mifare",
+              "mifare-classic",
+              "mifare1k",
+              "nfc",
+              "rfid"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1326,12 +1986,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust on the Flipper Zero",
+            "homepage": null,
             "id": 541352298,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-20T12:34:38Z",
+            "open_issues": 28,
             "owner": "flipperzero-rs",
             "repo": "flipperzero-rs",
-            "stars": 688
+            "stars": 688,
+            "topics": [
+              "embedded",
+              "flipperzero",
+              "rust",
+              "rust-lang"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1342,12 +2012,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero Python CLI Wrapper",
+            "homepage": null,
             "id": 517145721,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-17T07:46:07Z",
+            "open_issues": 0,
             "owner": "wh00hw",
             "repo": "pyFlipper",
-            "stars": 441
+            "stars": 441,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1358,12 +2033,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐬🧋  Remote control your flipper from the local terminal or over SSH",
+            "homepage": null,
             "id": 518599161,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-02-23T12:02:41Z",
+            "open_issues": 3,
             "owner": "jon4hz",
             "repo": "fztea",
-            "stars": 400
+            "stars": 400,
+            "topics": [
+              "bubbletea",
+              "flipper",
+              "flipper-zero",
+              "flipperzero",
+              "serial-communication",
+              "ssh",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1374,12 +2062,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert BIN to Flipper Zero compatible NFC format",
+            "homepage": null,
             "id": 469205340,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-05-23T05:53:44Z",
+            "open_issues": 4,
             "owner": "0xz00n",
             "repo": "FlipMiibo",
-            "stars": 244
+            "stars": 244,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1390,12 +2083,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI operated Flipper Zero",
+            "homepage": null,
             "id": 1213121380,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-17T08:47:45Z",
+            "open_issues": 0,
             "owner": "xunholy",
             "repo": "promptzero",
-            "stars": 226
+            "stars": 226,
+            "topics": [
+              "badusb",
+              "cybersecurity",
+              "flipper",
+              "flipper-zero",
+              "golang",
+              "hardware-hacking",
+              "marauder",
+              "momentum",
+              "pentesting",
+              "red-team",
+              "subghz",
+              "unleashed",
+              "unlocked",
+              "wifi-hacking"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1406,12 +2119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper Zero filesystem driver",
+            "homepage": null,
             "id": 537253443,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-06T12:02:48Z",
+            "open_issues": 4,
             "owner": "dakhnod",
             "repo": "fzfs",
-            "stars": 223
+            "stars": 223,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1422,12 +2140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 469389420,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-02-25T18:51:55Z",
+            "open_issues": 4,
             "owner": "DroomOne",
             "repo": "FlipperScripts",
-            "stars": 212
+            "stars": 212,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1438,12 +2161,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Converts Amiibo .bins to a flipper compatible format",
+            "homepage": null,
             "id": 469155365,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-13T13:16:11Z",
+            "open_issues": 8,
             "owner": "Lucaslhm",
             "repo": "AmiiboFlipperConverter",
-            "stars": 203
+            "stars": 203,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1454,12 +2182,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flipper SUB Plotters / comparers!",
+            "homepage": null,
             "id": 520620051,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-04-07T08:40:17Z",
+            "open_issues": 0,
             "owner": "ShotokanZH",
             "repo": "flipper_sub_plotters_comparers",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1470,12 +2203,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mifare Classic Binary -> NFC file converter",
+            "homepage": null,
             "id": 520712619,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-09-20T21:21:14Z",
+            "open_issues": 0,
             "owner": "equipter",
             "repo": "ClassicConverter",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "mifare-classic",
+              "mifare1k",
+              "mifare4k",
+              "rfid"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1486,12 +2229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI tools for better interact with Flipper zero.",
+            "homepage": null,
             "id": 402795044,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-19T12:05:04Z",
+            "open_issues": 2,
             "owner": "lomalkin",
             "repo": "flipperzero-cli-tools",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1502,12 +2250,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "csv2ir is a script to convert ir .csv files to .ir files for the flipper.",
+            "homepage": null,
             "id": 471661277,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-05-26T17:06:13Z",
+            "open_issues": 2,
             "owner": "Spexivus",
             "repo": "csv2ir",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "flipper-zero",
+              "flipperzero",
+              "ir"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1518,12 +2275,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Segger Embedded Studio project for building & debugging Flipper Zero firmware.",
+            "homepage": null,
             "id": 436055014,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-05-10T15:33:08Z",
+            "open_issues": 0,
             "owner": "hedger",
             "repo": "flipperzero-sesproject",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1534,12 +2296,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a setup script that sets up the toolchain for ARM devices, allowing the use of FBT",
+            "homepage": null,
             "id": 622193615,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-07-13T20:07:55Z",
+            "open_issues": 0,
             "owner": "qqmajikpp",
             "repo": "FBT-AARCH64",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1550,12 +2317,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert MusicXML to Flipper Music Format",
+            "homepage": "https://pypi.org/project/musicxml2fmf/",
             "id": 520460473,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-14T10:26:04Z",
+            "open_issues": 2,
             "owner": "white-gecko",
             "repo": "musicxml2fmf",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "converter",
+              "flipper",
+              "flipper-zero",
+              "flipperzero",
+              "music",
+              "musicxml",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1566,12 +2346,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 497202550,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-05-28T06:53:04Z",
+            "open_issues": 0,
             "owner": "SkeletonMan03",
             "repo": "VertProntoIR2FlipperIR",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         }
@@ -1588,12 +2373,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐬 A collection of awesome resources for the Flipper Zero device.",
+            "homepage": "https://dj.je/fz",
             "id": 469703690,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-09-27T15:36:56Z",
+            "open_issues": 17,
             "owner": "djsime1",
             "repo": "awesome-flipperzero",
-            "stars": 24191
+            "stars": 24191,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "flipper-zero",
+              "flipperzero"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1604,12 +2399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+            "homepage": null,
             "id": 490465859,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-28T00:55:56Z",
+            "open_issues": 8,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17443
+            "stars": 17443,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1620,12 +2420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+            "homepage": null,
             "id": 490465859,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-28T00:55:56Z",
+            "open_issues": 8,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17443
+            "stars": 17443,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1636,12 +2441,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
+            "homepage": "https://justcallmekokollc.com",
             "id": 208325027,
             "language": "C++",
-            "last_commit": "2026-08-28T20:59:06Z",
+            "license": null,
+            "last_commit": "2026-08-29T03:57:15Z",
+            "open_issues": 332,
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12154
+            "stars": 12155,
+            "topics": [
+              "arduino",
+              "beacon",
+              "bluetooth",
+              "command-line",
+              "deauthentication",
+              "defensive",
+              "dualband",
+              "esp32",
+              "esp32-c5",
+              "esp32-s2",
+              "espressif",
+              "firmware",
+              "flipperzero",
+              "flock-safety",
+              "offensive",
+              "portscanner",
+              "scanner",
+              "wardriving",
+              "wifi",
+              "wpa3"
+            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1652,12 +2483,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo will mainly containt generated keys of Skylanders toys to be used with Flipper Zero.",
+            "homepage": null,
             "id": 519525061,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-23T20:51:03Z",
+            "open_issues": 1,
             "owner": "V0lk3n",
             "repo": "Flipper-Skylanders",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         }
@@ -1666,15 +2502,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:12:03.207Z",
+    "last_updated": "2026-08-29T04:25:22.963Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.",
+      "homepage": "https://www.patreon.com/RogueMaster",
       "id": 509598134,
       "language": "C",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-20T03:19:24Z",
+      "open_issues": 0,
       "owner": "RogueMaster",
       "repo": "awesome-flipperzero-withModules",
-      "stars": 2010
+      "stars": 2010,
+      "topics": [
+        "flipper",
+        "flipper-zero",
+        "flipperzero",
+        "pentesting",
+        "roguemaster",
+        "security-tools"
+      ]
     },
     "original_repository_sha": "73d3ddee552597f4b2d05bb9fd7378155934c0eb",
     "enhanced_repository": "enhansome/enhansome-flipperzero-withModules",
