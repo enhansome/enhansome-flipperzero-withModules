@@ -18,7 +18,7 @@
             "open_issues": 17,
             "owner": "djsime1",
             "repo": "awesome-flipperzero",
-            "stars": 24232,
+            "stars": 24237,
             "topics": [
               "awesome",
               "awesome-list",
@@ -72,7 +72,7 @@
             "open_issues": 66,
             "owner": "I-Am-Jakoby",
             "repo": "Flipper-Zero-BadUSB",
-            "stars": 7064,
+            "stars": 7066,
             "topics": [
               "badusb",
               "badusb-payloads",
@@ -141,7 +141,7 @@
             "open_issues": 13,
             "owner": "tobiabocchi",
             "repo": "flipperzero-bruteforce",
-            "stars": 2518,
+            "stars": 2519,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -478,7 +478,7 @@
             "open_issues": 3,
             "owner": "akopachov",
             "repo": "flipper-zero_authenticator",
-            "stars": 669,
+            "stars": 670,
             "topics": [
               "authenticator",
               "flipper-plugin",
@@ -833,7 +833,7 @@
             "open_issues": 3,
             "owner": "theisolinearchip",
             "repo": "flipperzero_stuff",
-            "stars": 126,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -854,7 +854,7 @@
             "open_issues": 3,
             "owner": "theisolinearchip",
             "repo": "flipperzero_stuff",
-            "stars": 126,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -1164,11 +1164,11 @@
             "id": 470579591,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T21:41:37Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-08T20:34:01Z",
+            "open_issues": 27,
             "owner": "DarkFlippers",
             "repo": "unleashed-firmware",
-            "stars": 22182,
+            "stars": 22190,
             "topics": [
               "alternative-firmware",
               "cfw",
@@ -1202,11 +1202,11 @@
             "id": 492005030,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T07:22:36Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-08T21:21:04Z",
+            "open_issues": 0,
             "owner": "RogueMaster",
             "repo": "flipperzero-firmware-wPlugins",
-            "stars": 6347,
+            "stars": 6349,
             "topics": [
               "armv7m",
               "ble",
@@ -1901,11 +1901,11 @@
             "id": 208325027,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-05T23:09:46Z",
+            "last_commit": "2026-09-08T20:41:35Z",
             "open_issues": 327,
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12250,
+            "stars": 12262,
             "topics": [
               "arduino",
               "beacon",
@@ -1947,7 +1947,7 @@
             "open_issues": 0,
             "owner": "evilpete",
             "repo": "flipper_toolbox",
-            "stars": 956,
+            "stars": 957,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -2382,7 +2382,7 @@
             "open_issues": 17,
             "owner": "djsime1",
             "repo": "awesome-flipperzero",
-            "stars": 24232,
+            "stars": 24237,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2446,11 +2446,11 @@
             "id": 208325027,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-05T23:09:46Z",
+            "last_commit": "2026-09-08T20:41:35Z",
             "open_issues": 327,
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12250,
+            "stars": 12262,
             "topics": [
               "arduino",
               "beacon",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T23:33:53.499Z",
+    "last_updated": "2026-09-08T23:26:23.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.",
