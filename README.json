@@ -18,7 +18,7 @@
             "open_issues": 17,
             "owner": "djsime1",
             "repo": "awesome-flipperzero",
-            "stars": 24453,
+            "stars": 24457,
             "topics": [
               "awesome",
               "awesome-list",
@@ -51,7 +51,7 @@
             "open_issues": 8,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17667,
+            "stars": 17670,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -72,7 +72,7 @@
             "open_issues": 66,
             "owner": "I-Am-Jakoby",
             "repo": "Flipper-Zero-BadUSB",
-            "stars": 7138,
+            "stars": 7144,
             "topics": [
               "badusb",
               "badusb-payloads",
@@ -96,10 +96,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2024-08-15T17:04:52Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "Gioman101",
             "repo": "FlipperAmiibo",
-            "stars": 3635,
+            "stars": 3636,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -141,7 +141,7 @@
             "open_issues": 13,
             "owner": "tobiabocchi",
             "repo": "flipperzero-bruteforce",
-            "stars": 2535,
+            "stars": 2537,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -162,7 +162,7 @@
             "open_issues": 0,
             "owner": "FalsePhilosopher",
             "repo": "badusb",
-            "stars": 2012,
+            "stars": 2014,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -457,7 +457,7 @@
             "open_issues": 8,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17667,
+            "stars": 17670,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -478,7 +478,7 @@
             "open_issues": 4,
             "owner": "akopachov",
             "repo": "flipper-zero_authenticator",
-            "stars": 672,
+            "stars": 671,
             "topics": [
               "authenticator",
               "flipper-plugin",
@@ -505,7 +505,7 @@
             "open_issues": 5,
             "owner": "H4ckd4ddy",
             "repo": "flipperzero-sentry-safe-plugin",
-            "stars": 580,
+            "stars": 579,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -788,6 +788,48 @@
         },
         {
           "node_type": "item",
+          "title": "Small \"real time\" decimal/hexadecimal converter.",
+          "description": "theisolinearchip/flipperzero_stuff",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A bunch Flipper Zero apps and random tinkering",
+            "homepage": null,
+            "id": 521741541,
+            "language": "C",
+            "license": "Unlicense",
+            "last_commit": "2022-08-20T19:05:14Z",
+            "open_issues": 3,
+            "owner": "theisolinearchip",
+            "repo": "flipperzero_stuff",
+            "stars": 128,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T05:28:03.209Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-unit converter that can be easily expanded with new units and conversion methods.",
+          "description": "theisolinearchip/flipperzero_stuff",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A bunch Flipper Zero apps and random tinkering",
+            "homepage": null,
+            "id": 521741541,
+            "language": "C",
+            "license": "Unlicense",
+            "last_commit": "2022-08-20T19:05:14Z",
+            "open_issues": 3,
+            "owner": "theisolinearchip",
+            "repo": "flipperzero_stuff",
+            "stars": 128,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T05:28:03.209Z"
+        },
+        {
+          "node_type": "item",
           "title": "Send left-clicks as a USB HID device.",
           "description": "pbek/usb_hid_autofire",
           "children": [],
@@ -814,48 +856,6 @@
               "hid",
               "usb"
             ]
-          },
-          "first_seen": "2026-08-28T05:28:03.209Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Small \"real time\" decimal/hexadecimal converter.",
-          "description": "theisolinearchip/flipperzero_stuff",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A bunch Flipper Zero apps and random tinkering",
-            "homepage": null,
-            "id": 521741541,
-            "language": "C",
-            "license": "Unlicense",
-            "last_commit": "2022-08-20T19:05:14Z",
-            "open_issues": 3,
-            "owner": "theisolinearchip",
-            "repo": "flipperzero_stuff",
-            "stars": 127,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:28:03.209Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Multi-unit converter that can be easily expanded with new units and conversion methods.",
-          "description": "theisolinearchip/flipperzero_stuff",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A bunch Flipper Zero apps and random tinkering",
-            "homepage": null,
-            "id": 521741541,
-            "language": "C",
-            "license": "Unlicense",
-            "last_commit": "2022-08-20T19:05:14Z",
-            "open_issues": 3,
-            "owner": "theisolinearchip",
-            "repo": "flipperzero_stuff",
-            "stars": 127,
-            "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -1165,10 +1165,10 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-10-10T22:43:18Z",
-            "open_issues": 27,
+            "open_issues": 26,
             "owner": "DarkFlippers",
             "repo": "unleashed-firmware",
-            "stars": 22491,
+            "stars": 22500,
             "topics": [
               "alternative-firmware",
               "cfw",
@@ -1202,11 +1202,11 @@
             "id": 492005030,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-10T23:29:42Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-11T04:01:36Z",
+            "open_issues": 1,
             "owner": "RogueMaster",
             "repo": "flipperzero-firmware-wPlugins",
-            "stars": 6381,
+            "stars": 6382,
             "topics": [
               "armv7m",
               "ble",
@@ -1356,7 +1356,7 @@
             "open_issues": 8,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17667,
+            "stars": 17670,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -1398,7 +1398,7 @@
             "open_issues": 0,
             "owner": "Kuronons",
             "repo": "FZ_graphics",
-            "stars": 579,
+            "stars": 580,
             "topics": [
               "animation",
               "art",
@@ -1737,7 +1737,7 @@
             "open_issues": 3,
             "owner": "Chrismettal",
             "repo": "flipper-zero-backpacks",
-            "stars": 447,
+            "stars": 448,
             "topics": [
               "addon",
               "backpack",
@@ -1902,10 +1902,10 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-10-10T06:59:41Z",
-            "open_issues": 302,
+            "open_issues": 283,
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12695,
+            "stars": 12712,
             "topics": [
               "arduino",
               "beacon",
@@ -2092,7 +2092,7 @@
             "open_issues": 0,
             "owner": "xunholy",
             "repo": "promptzero",
-            "stars": 244,
+            "stars": 245,
             "topics": [
               "badusb",
               "cybersecurity",
@@ -2382,7 +2382,7 @@
             "open_issues": 17,
             "owner": "djsime1",
             "repo": "awesome-flipperzero",
-            "stars": 24453,
+            "stars": 24457,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2408,7 +2408,7 @@
             "open_issues": 8,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17667,
+            "stars": 17670,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -2429,7 +2429,7 @@
             "open_issues": 8,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17667,
+            "stars": 17670,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -2447,10 +2447,10 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-10-10T06:59:41Z",
-            "open_issues": 302,
+            "open_issues": 283,
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12695,
+            "stars": 12712,
             "topics": [
               "arduino",
               "beacon",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T00:15:51.093Z",
+    "last_updated": "2026-10-12T00:36:55.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.",
