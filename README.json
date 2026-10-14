@@ -18,7 +18,7 @@
             "open_issues": 17,
             "owner": "djsime1",
             "repo": "awesome-flipperzero",
-            "stars": 24469,
+            "stars": 24476,
             "topics": [
               "awesome",
               "awesome-list",
@@ -51,7 +51,7 @@
             "open_issues": 9,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17685,
+            "stars": 17688,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -72,7 +72,7 @@
             "open_issues": 66,
             "owner": "I-Am-Jakoby",
             "repo": "Flipper-Zero-BadUSB",
-            "stars": 7144,
+            "stars": 7143,
             "topics": [
               "badusb",
               "badusb-payloads",
@@ -99,7 +99,7 @@
             "open_issues": 11,
             "owner": "Gioman101",
             "repo": "FlipperAmiibo",
-            "stars": 3636,
+            "stars": 3640,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -141,7 +141,7 @@
             "open_issues": 13,
             "owner": "tobiabocchi",
             "repo": "flipperzero-bruteforce",
-            "stars": 2537,
+            "stars": 2538,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -162,7 +162,7 @@
             "open_issues": 0,
             "owner": "FalsePhilosopher",
             "repo": "badusb",
-            "stars": 2016,
+            "stars": 2015,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -259,7 +259,7 @@
             "open_issues": 0,
             "owner": "wetox-team",
             "repo": "flipperzero-goodies",
-            "stars": 1425,
+            "stars": 1426,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -421,7 +421,7 @@
             "open_issues": 3,
             "owner": "bad-antics",
             "repo": "nullsec-flipper-suite",
-            "stars": 83,
+            "stars": 85,
             "topics": [
               "badusb",
               "flipper-zero",
@@ -457,7 +457,7 @@
             "open_issues": 9,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17685,
+            "stars": 17688,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -478,7 +478,7 @@
             "open_issues": 4,
             "owner": "akopachov",
             "repo": "flipper-zero_authenticator",
-            "stars": 671,
+            "stars": 672,
             "topics": [
               "authenticator",
               "flipper-plugin",
@@ -1164,11 +1164,11 @@
             "id": 470579591,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-13T21:36:32Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-14T21:06:08Z",
+            "open_issues": 23,
             "owner": "DarkFlippers",
             "repo": "unleashed-firmware",
-            "stars": 22504,
+            "stars": 22512,
             "topics": [
               "alternative-firmware",
               "cfw",
@@ -1266,7 +1266,7 @@
             "open_issues": 1,
             "owner": "skizzophrenic",
             "repo": "SquachWare-CFW",
-            "stars": 371,
+            "stars": 372,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -1356,7 +1356,7 @@
             "open_issues": 9,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17685,
+            "stars": 17688,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -1626,7 +1626,7 @@
             "open_issues": 17,
             "owner": "SequoiaSan",
             "repo": "FlipperZero-WiFi-Scanner_Module",
-            "stars": 774,
+            "stars": 776,
             "topics": [
               "esp32",
               "esp8266",
@@ -1901,11 +1901,11 @@
             "id": 208325027,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-13T22:22:46Z",
+            "last_commit": "2026-10-14T18:02:38Z",
             "open_issues": 293,
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12763,
+            "stars": 12778,
             "topics": [
               "arduino",
               "beacon",
@@ -1968,7 +1968,7 @@
             "open_issues": 9,
             "owner": "equipter",
             "repo": "mfkey32v2",
-            "stars": 876,
+            "stars": 877,
             "topics": [
               "mifare",
               "mifare-classic",
@@ -2382,7 +2382,7 @@
             "open_issues": 17,
             "owner": "djsime1",
             "repo": "awesome-flipperzero",
-            "stars": 24469,
+            "stars": 24476,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2408,7 +2408,7 @@
             "open_issues": 9,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17685,
+            "stars": 17688,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -2429,7 +2429,7 @@
             "open_issues": 9,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17685,
+            "stars": 17688,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -2446,11 +2446,11 @@
             "id": 208325027,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-13T22:22:46Z",
+            "last_commit": "2026-10-14T18:02:38Z",
             "open_issues": 293,
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12763,
+            "stars": 12778,
             "topics": [
               "arduino",
               "beacon",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T00:21:13.733Z",
+    "last_updated": "2026-10-14T23:58:11.225Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.",
