@@ -18,7 +18,7 @@
             "open_issues": 18,
             "owner": "djsime1",
             "repo": "awesome-flipperzero",
-            "stars": 24522,
+            "stars": 24523,
             "topics": [
               "awesome",
               "awesome-list",
@@ -51,7 +51,7 @@
             "open_issues": 9,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17710,
+            "stars": 17713,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -72,7 +72,7 @@
             "open_issues": 66,
             "owner": "I-Am-Jakoby",
             "repo": "Flipper-Zero-BadUSB",
-            "stars": 7154,
+            "stars": 7155,
             "topics": [
               "badusb",
               "badusb-payloads",
@@ -99,7 +99,7 @@
             "open_issues": 11,
             "owner": "Gioman101",
             "repo": "FlipperAmiibo",
-            "stars": 3644,
+            "stars": 3645,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -120,7 +120,7 @@
             "open_issues": 2,
             "owner": "logickworkshop",
             "repo": "Flipper-IRDB",
-            "stars": 2577,
+            "stars": 2578,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -162,7 +162,7 @@
             "open_issues": 0,
             "owner": "FalsePhilosopher",
             "repo": "badusb",
-            "stars": 2021,
+            "stars": 2022,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -183,7 +183,7 @@
             "open_issues": 1,
             "owner": "aleff-github",
             "repo": "my-flipper-shits",
-            "stars": 1865,
+            "stars": 1866,
             "topics": [
               "badusb",
               "badusb-payloads",
@@ -221,7 +221,7 @@
             "open_issues": 1,
             "owner": "aleff-github",
             "repo": "my-flipper-shits",
-            "stars": 1865,
+            "stars": 1866,
             "topics": [
               "badusb",
               "badusb-payloads",
@@ -322,7 +322,7 @@
             "open_issues": 0,
             "owner": "glutesha",
             "repo": "Flipper-Starnew",
-            "stars": 586,
+            "stars": 585,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -343,7 +343,7 @@
             "open_issues": 2,
             "owner": "neverfa11ing",
             "repo": "FlipperMusicRTTTL",
-            "stars": 379,
+            "stars": 378,
             "topics": [
               "flipperzero",
               "nokia",
@@ -457,7 +457,7 @@
             "open_issues": 9,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17710,
+            "stars": 17713,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -547,7 +547,7 @@
             "open_issues": 3,
             "owner": "quen0n",
             "repo": "unitemp-flipperzero",
-            "stars": 354,
+            "stars": 353,
             "topics": [
               "aht10",
               "am2320",
@@ -1164,11 +1164,11 @@
             "id": 470579591,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T21:21:47Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-21T13:02:50Z",
+            "open_issues": 27,
             "owner": "DarkFlippers",
             "repo": "unleashed-firmware",
-            "stars": 22557,
+            "stars": 22560,
             "topics": [
               "alternative-firmware",
               "cfw",
@@ -1202,7 +1202,7 @@
             "id": 492005030,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T18:52:55Z",
+            "last_commit": "2026-10-21T19:21:17Z",
             "open_issues": 0,
             "owner": "RogueMaster",
             "repo": "flipperzero-firmware-wPlugins",
@@ -1356,7 +1356,7 @@
             "open_issues": 9,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17710,
+            "stars": 17713,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -1901,11 +1901,11 @@
             "id": 208325027,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-20T22:37:27Z",
-            "open_issues": 193,
+            "last_commit": "2026-10-21T23:16:17Z",
+            "open_issues": 191,
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12856,
+            "stars": 12864,
             "topics": [
               "arduino",
               "beacon",
@@ -1968,7 +1968,7 @@
             "open_issues": 9,
             "owner": "equipter",
             "repo": "mfkey32v2",
-            "stars": 878,
+            "stars": 879,
             "topics": [
               "mifare",
               "mifare-classic",
@@ -2042,7 +2042,7 @@
             "open_issues": 3,
             "owner": "jon4hz",
             "repo": "fztea",
-            "stars": 404,
+            "stars": 405,
             "topics": [
               "bubbletea",
               "flipper",
@@ -2051,6 +2051,42 @@
               "serial-communication",
               "ssh",
               "tui"
+            ]
+          },
+          "first_seen": "2026-08-28T05:28:03.209Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Natural-language operator for the Flipper Zero (and ESP32 Marauder) — generate, deploy, and run payloads from a single sentence; CLI / web / MCP server modes.",
+          "description": "xunholy/promptzero",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AI operated Flipper Zero",
+            "homepage": null,
+            "id": 1213121380,
+            "language": "Go",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-18T02:43:43Z",
+            "open_issues": 0,
+            "owner": "xunholy",
+            "repo": "promptzero",
+            "stars": 248,
+            "topics": [
+              "badusb",
+              "cybersecurity",
+              "flipper",
+              "flipper-zero",
+              "golang",
+              "hardware-hacking",
+              "marauder",
+              "momentum",
+              "pentesting",
+              "red-team",
+              "subghz",
+              "unleashed",
+              "unlocked",
+              "wifi-hacking"
             ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -2073,42 +2109,6 @@
             "repo": "FlipMiibo",
             "stars": 247,
             "topics": []
-          },
-          "first_seen": "2026-08-28T05:28:03.209Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Natural-language operator for the Flipper Zero (and ESP32 Marauder) — generate, deploy, and run payloads from a single sentence; CLI / web / MCP server modes.",
-          "description": "xunholy/promptzero",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "AI operated Flipper Zero",
-            "homepage": null,
-            "id": 1213121380,
-            "language": "Go",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-10-18T02:43:43Z",
-            "open_issues": 0,
-            "owner": "xunholy",
-            "repo": "promptzero",
-            "stars": 247,
-            "topics": [
-              "badusb",
-              "cybersecurity",
-              "flipper",
-              "flipper-zero",
-              "golang",
-              "hardware-hacking",
-              "marauder",
-              "momentum",
-              "pentesting",
-              "red-team",
-              "subghz",
-              "unleashed",
-              "unlocked",
-              "wifi-hacking"
-            ]
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
         },
@@ -2382,7 +2382,7 @@
             "open_issues": 18,
             "owner": "djsime1",
             "repo": "awesome-flipperzero",
-            "stars": 24522,
+            "stars": 24523,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2408,7 +2408,7 @@
             "open_issues": 9,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17710,
+            "stars": 17713,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -2429,7 +2429,7 @@
             "open_issues": 9,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17710,
+            "stars": 17713,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -2446,11 +2446,11 @@
             "id": 208325027,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-20T22:37:27Z",
-            "open_issues": 193,
+            "last_commit": "2026-10-21T23:16:17Z",
+            "open_issues": 191,
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12856,
+            "stars": 12864,
             "topics": [
               "arduino",
               "beacon",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T23:57:03.300Z",
+    "last_updated": "2026-10-22T00:02:32.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.",
