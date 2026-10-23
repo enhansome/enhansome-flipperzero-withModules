@@ -18,7 +18,7 @@
             "open_issues": 18,
             "owner": "djsime1",
             "repo": "awesome-flipperzero",
-            "stars": 24528,
+            "stars": 24537,
             "topics": [
               "awesome",
               "awesome-list",
@@ -72,7 +72,7 @@
             "open_issues": 66,
             "owner": "I-Am-Jakoby",
             "repo": "Flipper-Zero-BadUSB",
-            "stars": 7157,
+            "stars": 7156,
             "topics": [
               "badusb",
               "badusb-payloads",
@@ -99,7 +99,7 @@
             "open_issues": 11,
             "owner": "Gioman101",
             "repo": "FlipperAmiibo",
-            "stars": 3644,
+            "stars": 3645,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -120,7 +120,7 @@
             "open_issues": 2,
             "owner": "logickworkshop",
             "repo": "Flipper-IRDB",
-            "stars": 2579,
+            "stars": 2578,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -802,7 +802,7 @@
             "open_issues": 3,
             "owner": "theisolinearchip",
             "repo": "flipperzero_stuff",
-            "stars": 128,
+            "stars": 129,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -823,7 +823,7 @@
             "open_issues": 3,
             "owner": "theisolinearchip",
             "repo": "flipperzero_stuff",
-            "stars": 128,
+            "stars": 129,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -1164,11 +1164,11 @@
             "id": 470579591,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-22T21:51:56Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-23T13:42:17Z",
+            "open_issues": 27,
             "owner": "DarkFlippers",
             "repo": "unleashed-firmware",
-            "stars": 22565,
+            "stars": 22568,
             "topics": [
               "alternative-firmware",
               "cfw",
@@ -1202,7 +1202,7 @@
             "id": 492005030,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-22T19:40:04Z",
+            "last_commit": "2026-10-23T22:25:17Z",
             "open_issues": 0,
             "owner": "RogueMaster",
             "repo": "flipperzero-firmware-wPlugins",
@@ -1901,11 +1901,11 @@
             "id": 208325027,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-22T05:25:17Z",
-            "open_issues": 191,
+            "last_commit": "2026-10-23T14:39:42Z",
+            "open_issues": 192,
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12867,
+            "stars": 12878,
             "topics": [
               "arduino",
               "beacon",
@@ -2382,7 +2382,7 @@
             "open_issues": 18,
             "owner": "djsime1",
             "repo": "awesome-flipperzero",
-            "stars": 24528,
+            "stars": 24537,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2446,11 +2446,11 @@
             "id": 208325027,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-22T05:25:17Z",
-            "open_issues": 191,
+            "last_commit": "2026-10-23T14:39:42Z",
+            "open_issues": 192,
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12867,
+            "stars": 12878,
             "topics": [
               "arduino",
               "beacon",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:00:15.790Z",
+    "last_updated": "2026-10-23T23:52:24.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.",
