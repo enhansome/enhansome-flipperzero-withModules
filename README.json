@@ -18,7 +18,7 @@
             "open_issues": 18,
             "owner": "djsime1",
             "repo": "awesome-flipperzero",
-            "stars": 24580,
+            "stars": 24585,
             "topics": [
               "awesome",
               "awesome-list",
@@ -51,7 +51,7 @@
             "open_issues": 9,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17742,
+            "stars": 17748,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -72,7 +72,7 @@
             "open_issues": 66,
             "owner": "I-Am-Jakoby",
             "repo": "Flipper-Zero-BadUSB",
-            "stars": 7160,
+            "stars": 7165,
             "topics": [
               "badusb",
               "badusb-payloads",
@@ -99,7 +99,7 @@
             "open_issues": 11,
             "owner": "Gioman101",
             "repo": "FlipperAmiibo",
-            "stars": 3643,
+            "stars": 3644,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -120,7 +120,7 @@
             "open_issues": 2,
             "owner": "logickworkshop",
             "repo": "Flipper-IRDB",
-            "stars": 2579,
+            "stars": 2578,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -141,7 +141,7 @@
             "open_issues": 13,
             "owner": "tobiabocchi",
             "repo": "flipperzero-bruteforce",
-            "stars": 2547,
+            "stars": 2548,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -162,7 +162,7 @@
             "open_issues": 0,
             "owner": "FalsePhilosopher",
             "repo": "badusb",
-            "stars": 2027,
+            "stars": 2029,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -259,7 +259,7 @@
             "open_issues": 0,
             "owner": "wetox-team",
             "repo": "flipperzero-goodies",
-            "stars": 1431,
+            "stars": 1430,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -280,7 +280,7 @@
             "open_issues": 0,
             "owner": "jimilinuxguy",
             "repo": "flipperzero-touchtunes",
-            "stars": 738,
+            "stars": 737,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -301,7 +301,7 @@
             "open_issues": 0,
             "owner": "xb8",
             "repo": "t119bruteforcer",
-            "stars": 731,
+            "stars": 730,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -322,7 +322,7 @@
             "open_issues": 0,
             "owner": "glutesha",
             "repo": "Flipper-Starnew",
-            "stars": 587,
+            "stars": 586,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -343,7 +343,7 @@
             "open_issues": 2,
             "owner": "neverfa11ing",
             "repo": "FlipperMusicRTTTL",
-            "stars": 379,
+            "stars": 380,
             "topics": [
               "flipperzero",
               "nokia",
@@ -457,7 +457,7 @@
             "open_issues": 9,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17742,
+            "stars": 17748,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -1164,11 +1164,11 @@
             "id": 470579591,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-29T21:24:17Z",
+            "last_commit": "2026-10-30T19:26:10Z",
             "open_issues": 28,
             "owner": "DarkFlippers",
             "repo": "unleashed-firmware",
-            "stars": 22592,
+            "stars": 22600,
             "topics": [
               "alternative-firmware",
               "cfw",
@@ -1202,11 +1202,11 @@
             "id": 492005030,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-29T19:37:03Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-30T20:29:18Z",
+            "open_issues": 0,
             "owner": "RogueMaster",
             "repo": "flipperzero-firmware-wPlugins",
-            "stars": 6412,
+            "stars": 6413,
             "topics": [
               "armv7m",
               "ble",
@@ -1356,7 +1356,7 @@
             "open_issues": 9,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17742,
+            "stars": 17748,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -1377,7 +1377,7 @@
             "open_issues": 7,
             "owner": "skizzophrenic",
             "repo": "Talking-Sasquach",
-            "stars": 798,
+            "stars": 799,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -1704,7 +1704,7 @@
             "open_issues": 8,
             "owner": "SequoiaSan",
             "repo": "FlipperZero-Wifi-ESP8266-Deauther-Module",
-            "stars": 484,
+            "stars": 483,
             "topics": [
               "deauthentication",
               "deauther",
@@ -1905,7 +1905,7 @@
             "open_issues": 199,
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12930,
+            "stars": 12947,
             "topics": [
               "arduino",
               "beacon",
@@ -1992,7 +1992,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-29T10:27:54Z",
-            "open_issues": 30,
+            "open_issues": 29,
             "owner": "flipperzero-rs",
             "repo": "flipperzero-rs",
             "stars": 696,
@@ -2382,7 +2382,7 @@
             "open_issues": 18,
             "owner": "djsime1",
             "repo": "awesome-flipperzero",
-            "stars": 24580,
+            "stars": 24585,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2408,7 +2408,7 @@
             "open_issues": 9,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17742,
+            "stars": 17748,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -2429,7 +2429,7 @@
             "open_issues": 9,
             "owner": "UberGuidoZ",
             "repo": "Flipper",
-            "stars": 17742,
+            "stars": 17748,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:03.209Z"
@@ -2450,7 +2450,7 @@
             "open_issues": 199,
             "owner": "justcallmekoko",
             "repo": "ESP32Marauder",
-            "stars": 12930,
+            "stars": 12947,
             "topics": [
               "arduino",
               "beacon",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T01:07:15.988Z",
+    "last_updated": "2026-10-31T00:51:49.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.",
